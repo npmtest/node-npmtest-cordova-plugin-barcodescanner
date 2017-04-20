@@ -1,858 +1,858 @@
 <svg height="13678" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="13678" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 14:18:29 +0000  4226380 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 14:18:29 +0000     3777 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 14:18:29 +0000      595 bytes  package.json</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 14:18:29 +0000    22191 bytes  plugin.xml</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 14:18:29 +0000     2052 bytes  spec/barcodescanner.tests.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 14:18:29 +0000     2716 bytes  spec/html/HtmlReporter.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 14:18:29 +0000     1506 bytes  spec/html/HtmlReporterHelpers.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 14:18:29 +0000     4694 bytes  spec/html/ReporterView.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 14:18:29 +0000     2451 bytes  spec/html/SpecView.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 14:18:29 +0000      690 bytes  spec/html/SuiteView.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 14:18:29 +0000     7009 bytes  spec/html/TrivialReporter.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 14:18:29 +0000     2616 bytes  spec/index.html</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 14:18:29 +0000     6444 bytes  spec/jasmine.css</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 14:18:29 +0000    68667 bytes  spec/jasmine.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 14:18:29 +0000     2097 bytes  spec/test-runner.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 14:18:29 +0000     8428 bytes  src/android/LibraryProject/AndroidManifest.xml</tspan>
-<tspan x="10" y="282"> 16.  2017-04-20 14:18:29 +0000      824 bytes  src/android/LibraryProject/ant.properties</tspan>
-<tspan x="10" y="298"> 17.  2017-04-20 14:18:29 +0000      959 bytes  src/android/LibraryProject/assets/html-de/about1\</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 14:19:34 +0000  4226380 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 14:19:34 +0000     3777 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 14:19:34 +0000      595 bytes  package.json</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 14:19:34 +0000    22191 bytes  plugin.xml</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 14:19:34 +0000     2052 bytes  spec/barcodescanner.tests.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 14:19:34 +0000     2716 bytes  spec/html/HtmlReporter.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 14:19:34 +0000     1506 bytes  spec/html/HtmlReporterHelpers.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 14:19:34 +0000     4694 bytes  spec/html/ReporterView.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 14:19:34 +0000     2451 bytes  spec/html/SpecView.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 14:19:34 +0000      690 bytes  spec/html/SuiteView.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 14:19:34 +0000     7009 bytes  spec/html/TrivialReporter.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 14:19:34 +0000     2616 bytes  spec/index.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 14:19:34 +0000     6444 bytes  spec/jasmine.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 14:19:34 +0000    68667 bytes  spec/jasmine.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 14:19:34 +0000     2097 bytes  spec/test-runner.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 14:19:34 +0000     8428 bytes  src/android/LibraryProject/AndroidManifest.xml</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 14:19:34 +0000      824 bytes  src/android/LibraryProject/ant.properties</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 14:19:34 +0000      959 bytes  src/android/LibraryProject/assets/html-de/about1\</tspan>
 <tspan x="10" y="314">d.html</tspan>
-<tspan x="10" y="330"> 18.  2017-04-20 14:18:29 +0000     1289 bytes  src/android/LibraryProject/assets/html-de/about2\</tspan>
+<tspan x="10" y="330"> 18.  2017-04-20 14:19:34 +0000     1289 bytes  src/android/LibraryProject/assets/html-de/about2\</tspan>
 <tspan x="10" y="346">d.html</tspan>
-<tspan x="10" y="362"> 19.  2017-04-20 14:18:29 +0000     1152 bytes  src/android/LibraryProject/assets/html-de/index.\</tspan>
+<tspan x="10" y="362"> 19.  2017-04-20 14:19:34 +0000     1152 bytes  src/android/LibraryProject/assets/html-de/index.\</tspan>
 <tspan x="10" y="378">html</tspan>
-<tspan x="10" y="394"> 20.  2017-04-20 14:18:29 +0000     1235 bytes  src/android/LibraryProject/assets/html-de/scanni\</tspan>
+<tspan x="10" y="394"> 20.  2017-04-20 14:19:34 +0000     1235 bytes  src/android/LibraryProject/assets/html-de/scanni\</tspan>
 <tspan x="10" y="410">ng.html</tspan>
-<tspan x="10" y="426"> 21.  2017-04-20 14:18:29 +0000     1077 bytes  src/android/LibraryProject/assets/html-de/sharin\</tspan>
+<tspan x="10" y="426"> 21.  2017-04-20 14:19:34 +0000     1077 bytes  src/android/LibraryProject/assets/html-de/sharin\</tspan>
 <tspan x="10" y="442">g.html</tspan>
-<tspan x="10" y="458"> 22.  2017-04-20 14:18:29 +0000      391 bytes  src/android/LibraryProject/assets/html-de/whatsn\</tspan>
+<tspan x="10" y="458"> 22.  2017-04-20 14:19:34 +0000      391 bytes  src/android/LibraryProject/assets/html-de/whatsn\</tspan>
 <tspan x="10" y="474">ew.html</tspan>
-<tspan x="10" y="490"> 23.  2017-04-20 14:18:29 +0000      833 bytes  src/android/LibraryProject/assets/html-en/about1\</tspan>
+<tspan x="10" y="490"> 23.  2017-04-20 14:19:34 +0000      833 bytes  src/android/LibraryProject/assets/html-en/about1\</tspan>
 <tspan x="10" y="506">d.html</tspan>
-<tspan x="10" y="522"> 24.  2017-04-20 14:18:29 +0000     1160 bytes  src/android/LibraryProject/assets/html-en/about2\</tspan>
+<tspan x="10" y="522"> 24.  2017-04-20 14:19:34 +0000     1160 bytes  src/android/LibraryProject/assets/html-en/about2\</tspan>
 <tspan x="10" y="538">d.html</tspan>
-<tspan x="10" y="554"> 25.  2017-04-20 14:18:29 +0000     1067 bytes  src/android/LibraryProject/assets/html-en/index.\</tspan>
+<tspan x="10" y="554"> 25.  2017-04-20 14:19:34 +0000     1067 bytes  src/android/LibraryProject/assets/html-en/index.\</tspan>
 <tspan x="10" y="570">html</tspan>
-<tspan x="10" y="586"> 26.  2017-04-20 14:18:29 +0000     1113 bytes  src/android/LibraryProject/assets/html-en/scanni\</tspan>
+<tspan x="10" y="586"> 26.  2017-04-20 14:19:34 +0000     1113 bytes  src/android/LibraryProject/assets/html-en/scanni\</tspan>
 <tspan x="10" y="602">ng.html</tspan>
-<tspan x="10" y="618"> 27.  2017-04-20 14:18:29 +0000      908 bytes  src/android/LibraryProject/assets/html-en/sharin\</tspan>
+<tspan x="10" y="618"> 27.  2017-04-20 14:19:34 +0000      908 bytes  src/android/LibraryProject/assets/html-en/sharin\</tspan>
 <tspan x="10" y="634">g.html</tspan>
-<tspan x="10" y="650"> 28.  2017-04-20 14:18:29 +0000      348 bytes  src/android/LibraryProject/assets/html-en/whatsn\</tspan>
+<tspan x="10" y="650"> 28.  2017-04-20 14:19:34 +0000      348 bytes  src/android/LibraryProject/assets/html-en/whatsn\</tspan>
 <tspan x="10" y="666">ew.html</tspan>
-<tspan x="10" y="682"> 29.  2017-04-20 14:18:29 +0000      998 bytes  src/android/LibraryProject/assets/html-es/about1\</tspan>
+<tspan x="10" y="682"> 29.  2017-04-20 14:19:34 +0000      998 bytes  src/android/LibraryProject/assets/html-es/about1\</tspan>
 <tspan x="10" y="698">d.html</tspan>
-<tspan x="10" y="714"> 30.  2017-04-20 14:18:29 +0000     1442 bytes  src/android/LibraryProject/assets/html-es/about2\</tspan>
+<tspan x="10" y="714"> 30.  2017-04-20 14:19:34 +0000     1442 bytes  src/android/LibraryProject/assets/html-es/about2\</tspan>
 <tspan x="10" y="730">d.html</tspan>
-<tspan x="10" y="746"> 31.  2017-04-20 14:18:29 +0000     1279 bytes  src/android/LibraryProject/assets/html-es/index.\</tspan>
+<tspan x="10" y="746"> 31.  2017-04-20 14:19:34 +0000     1279 bytes  src/android/LibraryProject/assets/html-es/index.\</tspan>
 <tspan x="10" y="762">html</tspan>
-<tspan x="10" y="778"> 32.  2017-04-20 14:18:29 +0000     1385 bytes  src/android/LibraryProject/assets/html-es/scanni\</tspan>
+<tspan x="10" y="778"> 32.  2017-04-20 14:19:34 +0000     1385 bytes  src/android/LibraryProject/assets/html-es/scanni\</tspan>
 <tspan x="10" y="794">ng.html</tspan>
-<tspan x="10" y="810"> 33.  2017-04-20 14:18:29 +0000     1062 bytes  src/android/LibraryProject/assets/html-es/sharin\</tspan>
+<tspan x="10" y="810"> 33.  2017-04-20 14:19:34 +0000     1062 bytes  src/android/LibraryProject/assets/html-es/sharin\</tspan>
 <tspan x="10" y="826">g.html</tspan>
-<tspan x="10" y="842"> 34.  2017-04-20 14:18:29 +0000      454 bytes  src/android/LibraryProject/assets/html-es/whatsn\</tspan>
+<tspan x="10" y="842"> 34.  2017-04-20 14:19:34 +0000      454 bytes  src/android/LibraryProject/assets/html-es/whatsn\</tspan>
 <tspan x="10" y="858">ew.html</tspan>
-<tspan x="10" y="874"> 35.  2017-04-20 14:18:29 +0000      988 bytes  src/android/LibraryProject/assets/html-fr/about1\</tspan>
+<tspan x="10" y="874"> 35.  2017-04-20 14:19:34 +0000      988 bytes  src/android/LibraryProject/assets/html-fr/about1\</tspan>
 <tspan x="10" y="890">d.html</tspan>
-<tspan x="10" y="906"> 36.  2017-04-20 14:18:29 +0000     1407 bytes  src/android/LibraryProject/assets/html-fr/about2\</tspan>
+<tspan x="10" y="906"> 36.  2017-04-20 14:19:34 +0000     1407 bytes  src/android/LibraryProject/assets/html-fr/about2\</tspan>
 <tspan x="10" y="922">d.html</tspan>
-<tspan x="10" y="938"> 37.  2017-04-20 14:18:29 +0000     1285 bytes  src/android/LibraryProject/assets/html-fr/index.\</tspan>
+<tspan x="10" y="938"> 37.  2017-04-20 14:19:34 +0000     1285 bytes  src/android/LibraryProject/assets/html-fr/index.\</tspan>
 <tspan x="10" y="954">html</tspan>
-<tspan x="10" y="970"> 38.  2017-04-20 14:18:29 +0000     1369 bytes  src/android/LibraryProject/assets/html-fr/scanni\</tspan>
+<tspan x="10" y="970"> 38.  2017-04-20 14:19:34 +0000     1369 bytes  src/android/LibraryProject/assets/html-fr/scanni\</tspan>
 <tspan x="10" y="986">ng.html</tspan>
-<tspan x="10" y="1002"> 39.  2017-04-20 14:18:29 +0000     1087 bytes  src/android/LibraryProject/assets/html-fr/sharin\</tspan>
+<tspan x="10" y="1002"> 39.  2017-04-20 14:19:34 +0000     1087 bytes  src/android/LibraryProject/assets/html-fr/sharin\</tspan>
 <tspan x="10" y="1018">g.html</tspan>
-<tspan x="10" y="1034"> 40.  2017-04-20 14:18:29 +0000      453 bytes  src/android/LibraryProject/assets/html-fr/whatsn\</tspan>
+<tspan x="10" y="1034"> 40.  2017-04-20 14:19:34 +0000      453 bytes  src/android/LibraryProject/assets/html-fr/whatsn\</tspan>
 <tspan x="10" y="1050">ew.html</tspan>
-<tspan x="10" y="1066"> 41.  2017-04-20 14:18:29 +0000      970 bytes  src/android/LibraryProject/assets/html-it/about1\</tspan>
+<tspan x="10" y="1066"> 41.  2017-04-20 14:19:34 +0000      970 bytes  src/android/LibraryProject/assets/html-it/about1\</tspan>
 <tspan x="10" y="1082">d.html</tspan>
-<tspan x="10" y="1098"> 42.  2017-04-20 14:18:29 +0000     1429 bytes  src/android/LibraryProject/assets/html-it/about2\</tspan>
+<tspan x="10" y="1098"> 42.  2017-04-20 14:19:34 +0000     1429 bytes  src/android/LibraryProject/assets/html-it/about2\</tspan>
 <tspan x="10" y="1114">d.html</tspan>
-<tspan x="10" y="1130"> 43.  2017-04-20 14:18:29 +0000     1238 bytes  src/android/LibraryProject/assets/html-it/index.\</tspan>
+<tspan x="10" y="1130"> 43.  2017-04-20 14:19:34 +0000     1238 bytes  src/android/LibraryProject/assets/html-it/index.\</tspan>
 <tspan x="10" y="1146">html</tspan>
-<tspan x="10" y="1162"> 44.  2017-04-20 14:18:29 +0000     1320 bytes  src/android/LibraryProject/assets/html-it/scanni\</tspan>
+<tspan x="10" y="1162"> 44.  2017-04-20 14:19:34 +0000     1320 bytes  src/android/LibraryProject/assets/html-it/scanni\</tspan>
 <tspan x="10" y="1178">ng.html</tspan>
-<tspan x="10" y="1194"> 45.  2017-04-20 14:18:29 +0000     1042 bytes  src/android/LibraryProject/assets/html-it/sharin\</tspan>
+<tspan x="10" y="1194"> 45.  2017-04-20 14:19:34 +0000     1042 bytes  src/android/LibraryProject/assets/html-it/sharin\</tspan>
 <tspan x="10" y="1210">g.html</tspan>
-<tspan x="10" y="1226"> 46.  2017-04-20 14:18:29 +0000      438 bytes  src/android/LibraryProject/assets/html-it/whatsn\</tspan>
+<tspan x="10" y="1226"> 46.  2017-04-20 14:19:34 +0000      438 bytes  src/android/LibraryProject/assets/html-it/whatsn\</tspan>
 <tspan x="10" y="1242">ew.html</tspan>
-<tspan x="10" y="1258"> 47.  2017-04-20 14:18:29 +0000     1153 bytes  src/android/LibraryProject/assets/html-ja/about1\</tspan>
+<tspan x="10" y="1258"> 47.  2017-04-20 14:19:34 +0000     1153 bytes  src/android/LibraryProject/assets/html-ja/about1\</tspan>
 <tspan x="10" y="1274">d.html</tspan>
-<tspan x="10" y="1290"> 48.  2017-04-20 14:18:29 +0000     1602 bytes  src/android/LibraryProject/assets/html-ja/about2\</tspan>
+<tspan x="10" y="1290"> 48.  2017-04-20 14:19:34 +0000     1602 bytes  src/android/LibraryProject/assets/html-ja/about2\</tspan>
 <tspan x="10" y="1306">d.html</tspan>
-<tspan x="10" y="1322"> 49.  2017-04-20 14:18:29 +0000     1410 bytes  src/android/LibraryProject/assets/html-ja/index.\</tspan>
+<tspan x="10" y="1322"> 49.  2017-04-20 14:19:34 +0000     1410 bytes  src/android/LibraryProject/assets/html-ja/index.\</tspan>
 <tspan x="10" y="1338">html</tspan>
-<tspan x="10" y="1354"> 50.  2017-04-20 14:18:29 +0000     1596 bytes  src/android/LibraryProject/assets/html-ja/scanni\</tspan>
+<tspan x="10" y="1354"> 50.  2017-04-20 14:19:34 +0000     1596 bytes  src/android/LibraryProject/assets/html-ja/scanni\</tspan>
 <tspan x="10" y="1370">ng.html</tspan>
-<tspan x="10" y="1386"> 51.  2017-04-20 14:18:29 +0000     1285 bytes  src/android/LibraryProject/assets/html-ja/sharin\</tspan>
+<tspan x="10" y="1386"> 51.  2017-04-20 14:19:34 +0000     1285 bytes  src/android/LibraryProject/assets/html-ja/sharin\</tspan>
 <tspan x="10" y="1402">g.html</tspan>
-<tspan x="10" y="1418"> 52.  2017-04-20 14:18:29 +0000      449 bytes  src/android/LibraryProject/assets/html-ja/whatsn\</tspan>
+<tspan x="10" y="1418"> 52.  2017-04-20 14:19:34 +0000      449 bytes  src/android/LibraryProject/assets/html-ja/whatsn\</tspan>
 <tspan x="10" y="1434">ew.html</tspan>
-<tspan x="10" y="1450"> 53.  2017-04-20 14:18:29 +0000     1000 bytes  src/android/LibraryProject/assets/html-ko/about1\</tspan>
+<tspan x="10" y="1450"> 53.  2017-04-20 14:19:34 +0000     1000 bytes  src/android/LibraryProject/assets/html-ko/about1\</tspan>
 <tspan x="10" y="1466">d.html</tspan>
-<tspan x="10" y="1482"> 54.  2017-04-20 14:18:29 +0000     1431 bytes  src/android/LibraryProject/assets/html-ko/about2\</tspan>
+<tspan x="10" y="1482"> 54.  2017-04-20 14:19:34 +0000     1431 bytes  src/android/LibraryProject/assets/html-ko/about2\</tspan>
 <tspan x="10" y="1498">d.html</tspan>
-<tspan x="10" y="1514"> 55.  2017-04-20 14:18:29 +0000     1305 bytes  src/android/LibraryProject/assets/html-ko/index.\</tspan>
+<tspan x="10" y="1514"> 55.  2017-04-20 14:19:34 +0000     1305 bytes  src/android/LibraryProject/assets/html-ko/index.\</tspan>
 <tspan x="10" y="1530">html</tspan>
-<tspan x="10" y="1546"> 56.  2017-04-20 14:18:29 +0000     1373 bytes  src/android/LibraryProject/assets/html-ko/scanni\</tspan>
+<tspan x="10" y="1546"> 56.  2017-04-20 14:19:34 +0000     1373 bytes  src/android/LibraryProject/assets/html-ko/scanni\</tspan>
 <tspan x="10" y="1562">ng.html</tspan>
-<tspan x="10" y="1578"> 57.  2017-04-20 14:18:29 +0000     1102 bytes  src/android/LibraryProject/assets/html-ko/sharin\</tspan>
+<tspan x="10" y="1578"> 57.  2017-04-20 14:19:34 +0000     1102 bytes  src/android/LibraryProject/assets/html-ko/sharin\</tspan>
 <tspan x="10" y="1594">g.html</tspan>
-<tspan x="10" y="1610"> 58.  2017-04-20 14:18:29 +0000      436 bytes  src/android/LibraryProject/assets/html-ko/whatsn\</tspan>
+<tspan x="10" y="1610"> 58.  2017-04-20 14:19:34 +0000      436 bytes  src/android/LibraryProject/assets/html-ko/whatsn\</tspan>
 <tspan x="10" y="1626">ew.html</tspan>
-<tspan x="10" y="1642"> 59.  2017-04-20 14:18:29 +0000      881 bytes  src/android/LibraryProject/assets/html-nl/about1\</tspan>
+<tspan x="10" y="1642"> 59.  2017-04-20 14:19:34 +0000      881 bytes  src/android/LibraryProject/assets/html-nl/about1\</tspan>
 <tspan x="10" y="1658">d.html</tspan>
-<tspan x="10" y="1674"> 60.  2017-04-20 14:18:29 +0000     1237 bytes  src/android/LibraryProject/assets/html-nl/about2\</tspan>
+<tspan x="10" y="1674"> 60.  2017-04-20 14:19:34 +0000     1237 bytes  src/android/LibraryProject/assets/html-nl/about2\</tspan>
 <tspan x="10" y="1690">d.html</tspan>
-<tspan x="10" y="1706"> 61.  2017-04-20 14:18:29 +0000     1159 bytes  src/android/LibraryProject/assets/html-nl/index.\</tspan>
+<tspan x="10" y="1706"> 61.  2017-04-20 14:19:34 +0000     1159 bytes  src/android/LibraryProject/assets/html-nl/index.\</tspan>
 <tspan x="10" y="1722">html</tspan>
-<tspan x="10" y="1738"> 62.  2017-04-20 14:18:29 +0000     1211 bytes  src/android/LibraryProject/assets/html-nl/scanni\</tspan>
+<tspan x="10" y="1738"> 62.  2017-04-20 14:19:34 +0000     1211 bytes  src/android/LibraryProject/assets/html-nl/scanni\</tspan>
 <tspan x="10" y="1754">ng.html</tspan>
-<tspan x="10" y="1770"> 63.  2017-04-20 14:18:29 +0000     1025 bytes  src/android/LibraryProject/assets/html-nl/sharin\</tspan>
+<tspan x="10" y="1770"> 63.  2017-04-20 14:19:34 +0000     1025 bytes  src/android/LibraryProject/assets/html-nl/sharin\</tspan>
 <tspan x="10" y="1786">g.html</tspan>
-<tspan x="10" y="1802"> 64.  2017-04-20 14:18:29 +0000      421 bytes  src/android/LibraryProject/assets/html-nl/whatsn\</tspan>
+<tspan x="10" y="1802"> 64.  2017-04-20 14:19:34 +0000      421 bytes  src/android/LibraryProject/assets/html-nl/whatsn\</tspan>
 <tspan x="10" y="1818">ew.html</tspan>
-<tspan x="10" y="1834"> 65.  2017-04-20 14:18:29 +0000      993 bytes  src/android/LibraryProject/assets/html-pt/about1\</tspan>
+<tspan x="10" y="1834"> 65.  2017-04-20 14:19:34 +0000      993 bytes  src/android/LibraryProject/assets/html-pt/about1\</tspan>
 <tspan x="10" y="1850">d.html</tspan>
-<tspan x="10" y="1866"> 66.  2017-04-20 14:18:29 +0000     1363 bytes  src/android/LibraryProject/assets/html-pt/about2\</tspan>
+<tspan x="10" y="1866"> 66.  2017-04-20 14:19:34 +0000     1363 bytes  src/android/LibraryProject/assets/html-pt/about2\</tspan>
 <tspan x="10" y="1882">d.html</tspan>
-<tspan x="10" y="1898"> 67.  2017-04-20 14:18:29 +0000     1214 bytes  src/android/LibraryProject/assets/html-pt/index.\</tspan>
+<tspan x="10" y="1898"> 67.  2017-04-20 14:19:34 +0000     1214 bytes  src/android/LibraryProject/assets/html-pt/index.\</tspan>
 <tspan x="10" y="1914">html</tspan>
-<tspan x="10" y="1930"> 68.  2017-04-20 14:18:29 +0000     1312 bytes  src/android/LibraryProject/assets/html-pt/scanni\</tspan>
+<tspan x="10" y="1930"> 68.  2017-04-20 14:19:34 +0000     1312 bytes  src/android/LibraryProject/assets/html-pt/scanni\</tspan>
 <tspan x="10" y="1946">ng.html</tspan>
-<tspan x="10" y="1962"> 69.  2017-04-20 14:18:29 +0000     1035 bytes  src/android/LibraryProject/assets/html-pt/sharin\</tspan>
+<tspan x="10" y="1962"> 69.  2017-04-20 14:19:34 +0000     1035 bytes  src/android/LibraryProject/assets/html-pt/sharin\</tspan>
 <tspan x="10" y="1978">g.html</tspan>
-<tspan x="10" y="1994"> 70.  2017-04-20 14:18:29 +0000      441 bytes  src/android/LibraryProject/assets/html-pt/whatsn\</tspan>
+<tspan x="10" y="1994"> 70.  2017-04-20 14:19:34 +0000      441 bytes  src/android/LibraryProject/assets/html-pt/whatsn\</tspan>
 <tspan x="10" y="2010">ew.html</tspan>
-<tspan x="10" y="2026"> 71.  2017-04-20 14:18:29 +0000     1341 bytes  src/android/LibraryProject/assets/html-ru/about1\</tspan>
+<tspan x="10" y="2026"> 71.  2017-04-20 14:19:34 +0000     1341 bytes  src/android/LibraryProject/assets/html-ru/about1\</tspan>
 <tspan x="10" y="2042">d.html</tspan>
-<tspan x="10" y="2058"> 72.  2017-04-20 14:18:29 +0000     1917 bytes  src/android/LibraryProject/assets/html-ru/about2\</tspan>
+<tspan x="10" y="2058"> 72.  2017-04-20 14:19:34 +0000     1917 bytes  src/android/LibraryProject/assets/html-ru/about2\</tspan>
 <tspan x="10" y="2074">d.html</tspan>
-<tspan x="10" y="2090"> 73.  2017-04-20 14:18:29 +0000     1533 bytes  src/android/LibraryProject/assets/html-ru/index.\</tspan>
+<tspan x="10" y="2090"> 73.  2017-04-20 14:19:34 +0000     1533 bytes  src/android/LibraryProject/assets/html-ru/index.\</tspan>
 <tspan x="10" y="2106">html</tspan>
-<tspan x="10" y="2122"> 74.  2017-04-20 14:18:29 +0000     1758 bytes  src/android/LibraryProject/assets/html-ru/scanni\</tspan>
+<tspan x="10" y="2122"> 74.  2017-04-20 14:19:34 +0000     1758 bytes  src/android/LibraryProject/assets/html-ru/scanni\</tspan>
 <tspan x="10" y="2138">ng.html</tspan>
-<tspan x="10" y="2154"> 75.  2017-04-20 14:18:29 +0000     1446 bytes  src/android/LibraryProject/assets/html-ru/sharin\</tspan>
+<tspan x="10" y="2154"> 75.  2017-04-20 14:19:34 +0000     1446 bytes  src/android/LibraryProject/assets/html-ru/sharin\</tspan>
 <tspan x="10" y="2170">g.html</tspan>
-<tspan x="10" y="2186"> 76.  2017-04-20 14:18:29 +0000      544 bytes  src/android/LibraryProject/assets/html-ru/whatsn\</tspan>
+<tspan x="10" y="2186"> 76.  2017-04-20 14:19:34 +0000      544 bytes  src/android/LibraryProject/assets/html-ru/whatsn\</tspan>
 <tspan x="10" y="2202">ew.html</tspan>
-<tspan x="10" y="2218"> 77.  2017-04-20 14:18:29 +0000      823 bytes  src/android/LibraryProject/assets/html-zh-rCN/ab\</tspan>
+<tspan x="10" y="2218"> 77.  2017-04-20 14:19:34 +0000      823 bytes  src/android/LibraryProject/assets/html-zh-rCN/ab\</tspan>
 <tspan x="10" y="2234">out1d.html</tspan>
-<tspan x="10" y="2250"> 78.  2017-04-20 14:18:29 +0000     1136 bytes  src/android/LibraryProject/assets/html-zh-rCN/ab\</tspan>
+<tspan x="10" y="2250"> 78.  2017-04-20 14:19:34 +0000     1136 bytes  src/android/LibraryProject/assets/html-zh-rCN/ab\</tspan>
 <tspan x="10" y="2266">out2d.html</tspan>
-<tspan x="10" y="2282"> 79.  2017-04-20 14:18:29 +0000     1106 bytes  src/android/LibraryProject/assets/html-zh-rCN/in\</tspan>
+<tspan x="10" y="2282"> 79.  2017-04-20 14:19:34 +0000     1106 bytes  src/android/LibraryProject/assets/html-zh-rCN/in\</tspan>
 <tspan x="10" y="2298">dex.html</tspan>
-<tspan x="10" y="2314"> 80.  2017-04-20 14:18:29 +0000     1039 bytes  src/android/LibraryProject/assets/html-zh-rCN/sc\</tspan>
+<tspan x="10" y="2314"> 80.  2017-04-20 14:19:34 +0000     1039 bytes  src/android/LibraryProject/assets/html-zh-rCN/sc\</tspan>
 <tspan x="10" y="2330">anning.html</tspan>
-<tspan x="10" y="2346"> 81.  2017-04-20 14:18:29 +0000      884 bytes  src/android/LibraryProject/assets/html-zh-rCN/sh\</tspan>
+<tspan x="10" y="2346"> 81.  2017-04-20 14:19:34 +0000      884 bytes  src/android/LibraryProject/assets/html-zh-rCN/sh\</tspan>
 <tspan x="10" y="2362">aring.html</tspan>
-<tspan x="10" y="2378"> 82.  2017-04-20 14:18:29 +0000      371 bytes  src/android/LibraryProject/assets/html-zh-rCN/wh\</tspan>
+<tspan x="10" y="2378"> 82.  2017-04-20 14:19:34 +0000      371 bytes  src/android/LibraryProject/assets/html-zh-rCN/wh\</tspan>
 <tspan x="10" y="2394">atsnew.html</tspan>
-<tspan x="10" y="2410"> 83.  2017-04-20 14:18:29 +0000      823 bytes  src/android/LibraryProject/assets/html-zh-rTW/ab\</tspan>
+<tspan x="10" y="2410"> 83.  2017-04-20 14:19:34 +0000      823 bytes  src/android/LibraryProject/assets/html-zh-rTW/ab\</tspan>
 <tspan x="10" y="2426">out1d.html</tspan>
-<tspan x="10" y="2442"> 84.  2017-04-20 14:18:29 +0000     1136 bytes  src/android/LibraryProject/assets/html-zh-rTW/ab\</tspan>
+<tspan x="10" y="2442"> 84.  2017-04-20 14:19:34 +0000     1136 bytes  src/android/LibraryProject/assets/html-zh-rTW/ab\</tspan>
 <tspan x="10" y="2458">out2d.html</tspan>
-<tspan x="10" y="2474"> 85.  2017-04-20 14:18:29 +0000     1106 bytes  src/android/LibraryProject/assets/html-zh-rTW/in\</tspan>
+<tspan x="10" y="2474"> 85.  2017-04-20 14:19:34 +0000     1106 bytes  src/android/LibraryProject/assets/html-zh-rTW/in\</tspan>
 <tspan x="10" y="2490">dex.html</tspan>
-<tspan x="10" y="2506"> 86.  2017-04-20 14:18:29 +0000     1039 bytes  src/android/LibraryProject/assets/html-zh-rTW/sc\</tspan>
+<tspan x="10" y="2506"> 86.  2017-04-20 14:19:34 +0000     1039 bytes  src/android/LibraryProject/assets/html-zh-rTW/sc\</tspan>
 <tspan x="10" y="2522">anning.html</tspan>
-<tspan x="10" y="2538"> 87.  2017-04-20 14:18:29 +0000      884 bytes  src/android/LibraryProject/assets/html-zh-rTW/sh\</tspan>
+<tspan x="10" y="2538"> 87.  2017-04-20 14:19:34 +0000      884 bytes  src/android/LibraryProject/assets/html-zh-rTW/sh\</tspan>
 <tspan x="10" y="2554">aring.html</tspan>
-<tspan x="10" y="2570"> 88.  2017-04-20 14:18:29 +0000      371 bytes  src/android/LibraryProject/assets/html-zh-rTW/wh\</tspan>
+<tspan x="10" y="2570"> 88.  2017-04-20 14:19:34 +0000      371 bytes  src/android/LibraryProject/assets/html-zh-rTW/wh\</tspan>
 <tspan x="10" y="2586">atsnew.html</tspan>
-<tspan x="10" y="2602"> 89.  2017-04-20 14:18:29 +0000     2467 bytes  src/android/LibraryProject/assets/images/big-1d.\</tspan>
+<tspan x="10" y="2602"> 89.  2017-04-20 14:19:34 +0000     2467 bytes  src/android/LibraryProject/assets/images/big-1d.\</tspan>
 <tspan x="10" y="2618">png</tspan>
-<tspan x="10" y="2634"> 90.  2017-04-20 14:18:29 +0000     2208 bytes  src/android/LibraryProject/assets/images/big-dat\</tspan>
+<tspan x="10" y="2634"> 90.  2017-04-20 14:19:34 +0000     2208 bytes  src/android/LibraryProject/assets/images/big-dat\</tspan>
 <tspan x="10" y="2650">amatrix.png</tspan>
-<tspan x="10" y="2666"> 91.  2017-04-20 14:18:29 +0000      477 bytes  src/android/LibraryProject/assets/images/big-qr.\</tspan>
+<tspan x="10" y="2666"> 91.  2017-04-20 14:19:34 +0000      477 bytes  src/android/LibraryProject/assets/images/big-qr.\</tspan>
 <tspan x="10" y="2682">png</tspan>
-<tspan x="10" y="2698"> 92.  2017-04-20 14:18:29 +0000    15932 bytes  src/android/LibraryProject/assets/images/contact\</tspan>
+<tspan x="10" y="2698"> 92.  2017-04-20 14:19:34 +0000    15932 bytes  src/android/LibraryProject/assets/images/contact\</tspan>
 <tspan x="10" y="2714">-results-screen.jpg</tspan>
-<tspan x="10" y="2730"> 93.  2017-04-20 14:18:29 +0000     4566 bytes  src/android/LibraryProject/assets/images/demo-no\</tspan>
+<tspan x="10" y="2730"> 93.  2017-04-20 14:19:34 +0000     4566 bytes  src/android/LibraryProject/assets/images/demo-no\</tspan>
 <tspan x="10" y="2746">.png</tspan>
-<tspan x="10" y="2762"> 94.  2017-04-20 14:18:29 +0000     3031 bytes  src/android/LibraryProject/assets/images/demo-ye\</tspan>
+<tspan x="10" y="2762"> 94.  2017-04-20 14:19:34 +0000     3031 bytes  src/android/LibraryProject/assets/images/demo-ye\</tspan>
 <tspan x="10" y="2778">s.png</tspan>
-<tspan x="10" y="2794"> 95.  2017-04-20 14:18:29 +0000     8927 bytes  src/android/LibraryProject/assets/images/scan-ex\</tspan>
+<tspan x="10" y="2794"> 95.  2017-04-20 14:19:34 +0000     8927 bytes  src/android/LibraryProject/assets/images/scan-ex\</tspan>
 <tspan x="10" y="2810">ample.png</tspan>
-<tspan x="10" y="2826"> 96.  2017-04-20 14:18:29 +0000     3207 bytes  src/android/LibraryProject/assets/images/scan-fr\</tspan>
+<tspan x="10" y="2826"> 96.  2017-04-20 14:19:34 +0000     3207 bytes  src/android/LibraryProject/assets/images/scan-fr\</tspan>
 <tspan x="10" y="2842">om-phone.png</tspan>
-<tspan x="10" y="2858"> 97.  2017-04-20 14:18:29 +0000    24193 bytes  src/android/LibraryProject/assets/images/search-\</tspan>
+<tspan x="10" y="2858"> 97.  2017-04-20 14:19:34 +0000    24193 bytes  src/android/LibraryProject/assets/images/search-\</tspan>
 <tspan x="10" y="2874">book-contents.jpg</tspan>
-<tspan x="10" y="2890"> 98.  2017-04-20 14:18:29 +0000      132 bytes  src/android/LibraryProject/assets/style.css</tspan>
-<tspan x="10" y="2906"> 99.  2017-04-20 14:18:29 +0000     4246 bytes  src/android/LibraryProject/build.xml</tspan>
-<tspan x="10" y="2922">100.  2017-04-20 14:18:29 +0000     2607 bytes  src/android/LibraryProject/proguard-android-opti\</tspan>
+<tspan x="10" y="2890"> 98.  2017-04-20 14:19:34 +0000      132 bytes  src/android/LibraryProject/assets/style.css</tspan>
+<tspan x="10" y="2906"> 99.  2017-04-20 14:19:34 +0000     4246 bytes  src/android/LibraryProject/build.xml</tspan>
+<tspan x="10" y="2922">100.  2017-04-20 14:19:34 +0000     2607 bytes  src/android/LibraryProject/proguard-android-opti\</tspan>
 <tspan x="10" y="2938">mize.txt</tspan>
-<tspan x="10" y="2954">101.  2017-04-20 14:18:29 +0000      545 bytes  src/android/LibraryProject/project.properties</tspan>
-<tspan x="10" y="2970">102.  2017-04-20 14:18:29 +0000     3731 bytes  src/android/LibraryProject/res/drawable-hdpi/lau\</tspan>
+<tspan x="10" y="2954">101.  2017-04-20 14:19:34 +0000      545 bytes  src/android/LibraryProject/project.properties</tspan>
+<tspan x="10" y="2970">102.  2017-04-20 14:19:34 +0000     3731 bytes  src/android/LibraryProject/res/drawable-hdpi/lau\</tspan>
 <tspan x="10" y="2986">ncher_icon.png</tspan>
-<tspan x="10" y="3002">103.  2017-04-20 14:18:29 +0000     1483 bytes  src/android/LibraryProject/res/drawable-hdpi/sho\</tspan>
+<tspan x="10" y="3002">103.  2017-04-20 14:19:34 +0000     1483 bytes  src/android/LibraryProject/res/drawable-hdpi/sho\</tspan>
 <tspan x="10" y="3018">pper_icon.png</tspan>
-<tspan x="10" y="3034">104.  2017-04-20 14:18:29 +0000     8720 bytes  src/android/LibraryProject/res/drawable-xhdpi/la\</tspan>
+<tspan x="10" y="3034">104.  2017-04-20 14:19:34 +0000     8720 bytes  src/android/LibraryProject/res/drawable-xhdpi/la\</tspan>
 <tspan x="10" y="3050">uncher_icon.png</tspan>
-<tspan x="10" y="3066">105.  2017-04-20 14:18:29 +0000    12941 bytes  src/android/LibraryProject/res/drawable-xxhdpi/l\</tspan>
+<tspan x="10" y="3066">105.  2017-04-20 14:19:34 +0000    12941 bytes  src/android/LibraryProject/res/drawable-xxhdpi/l\</tspan>
 <tspan x="10" y="3082">auncher_icon.png</tspan>
-<tspan x="10" y="3098">106.  2017-04-20 14:18:29 +0000     2222 bytes  src/android/LibraryProject/res/drawable/launcher\</tspan>
+<tspan x="10" y="3098">106.  2017-04-20 14:19:34 +0000     2222 bytes  src/android/LibraryProject/res/drawable/launcher\</tspan>
 <tspan x="10" y="3114">_icon.png</tspan>
-<tspan x="10" y="3130">107.  2017-04-20 14:18:29 +0000     3207 bytes  src/android/LibraryProject/res/drawable/share_vi\</tspan>
+<tspan x="10" y="3130">107.  2017-04-20 14:19:34 +0000     3207 bytes  src/android/LibraryProject/res/drawable/share_vi\</tspan>
 <tspan x="10" y="3146">a_barcode.png</tspan>
-<tspan x="10" y="3162">108.  2017-04-20 14:18:29 +0000     1326 bytes  src/android/LibraryProject/res/drawable/shopper_\</tspan>
+<tspan x="10" y="3162">108.  2017-04-20 14:19:34 +0000     1326 bytes  src/android/LibraryProject/res/drawable/shopper_\</tspan>
 <tspan x="10" y="3178">icon.png</tspan>
-<tspan x="10" y="3194">109.  2017-04-20 14:18:29 +0000     1863 bytes  src/android/LibraryProject/res/layout-land/encod\</tspan>
+<tspan x="10" y="3194">109.  2017-04-20 14:19:34 +0000     1863 bytes  src/android/LibraryProject/res/layout-land/encod\</tspan>
 <tspan x="10" y="3210">e.xml</tspan>
-<tspan x="10" y="3226">110.  2017-04-20 14:18:29 +0000     3140 bytes  src/android/LibraryProject/res/layout-land/share\</tspan>
+<tspan x="10" y="3226">110.  2017-04-20 14:19:34 +0000     3140 bytes  src/android/LibraryProject/res/layout-land/share\</tspan>
 <tspan x="10" y="3242">.xml</tspan>
-<tspan x="10" y="3258">111.  2017-04-20 14:18:29 +0000     8426 bytes  src/android/LibraryProject/res/layout-ldpi/captu\</tspan>
+<tspan x="10" y="3258">111.  2017-04-20 14:19:34 +0000     8426 bytes  src/android/LibraryProject/res/layout-ldpi/captu\</tspan>
 <tspan x="10" y="3274">re.xml</tspan>
-<tspan x="10" y="3290">112.  2017-04-20 14:18:29 +0000     1233 bytes  src/android/LibraryProject/res/layout/bookmark_p\</tspan>
+<tspan x="10" y="3290">112.  2017-04-20 14:19:34 +0000     1233 bytes  src/android/LibraryProject/res/layout/bookmark_p\</tspan>
 <tspan x="10" y="3306">icker_list_item.xml</tspan>
-<tspan x="10" y="3322">113.  2017-04-20 14:18:29 +0000     8401 bytes  src/android/LibraryProject/res/layout/capture.xm\</tspan>
+<tspan x="10" y="3322">113.  2017-04-20 14:19:34 +0000     8401 bytes  src/android/LibraryProject/res/layout/capture.xm\</tspan>
 <tspan x="10" y="3338">l</tspan>
-<tspan x="10" y="3354">114.  2017-04-20 14:18:29 +0000     1931 bytes  src/android/LibraryProject/res/layout/encode.xml</tspan>
-<tspan x="10" y="3370">115.  2017-04-20 14:18:29 +0000     1770 bytes  src/android/LibraryProject/res/layout/help.xml</tspan>
-<tspan x="10" y="3386">116.  2017-04-20 14:18:29 +0000      801 bytes  src/android/LibraryProject/res/layout/history_li\</tspan>
+<tspan x="10" y="3354">114.  2017-04-20 14:19:34 +0000     1931 bytes  src/android/LibraryProject/res/layout/encode.xml</tspan>
+<tspan x="10" y="3370">115.  2017-04-20 14:19:34 +0000     1770 bytes  src/android/LibraryProject/res/layout/help.xml</tspan>
+<tspan x="10" y="3386">116.  2017-04-20 14:19:34 +0000      801 bytes  src/android/LibraryProject/res/layout/history_li\</tspan>
 <tspan x="10" y="3402">st_item.xml</tspan>
-<tspan x="10" y="3418">117.  2017-04-20 14:18:29 +0000     1851 bytes  src/android/LibraryProject/res/layout/search_boo\</tspan>
+<tspan x="10" y="3418">117.  2017-04-20 14:19:34 +0000     1851 bytes  src/android/LibraryProject/res/layout/search_boo\</tspan>
 <tspan x="10" y="3434">k_contents.xml</tspan>
-<tspan x="10" y="3450">118.  2017-04-20 14:18:29 +0000      961 bytes  src/android/LibraryProject/res/layout/search_boo\</tspan>
+<tspan x="10" y="3450">118.  2017-04-20 14:19:34 +0000      961 bytes  src/android/LibraryProject/res/layout/search_boo\</tspan>
 <tspan x="10" y="3466">k_contents_header.xml</tspan>
-<tspan x="10" y="3482">119.  2017-04-20 14:18:29 +0000     1533 bytes  src/android/LibraryProject/res/layout/search_boo\</tspan>
+<tspan x="10" y="3482">119.  2017-04-20 14:19:34 +0000     1533 bytes  src/android/LibraryProject/res/layout/search_boo\</tspan>
 <tspan x="10" y="3498">k_contents_list_item.xml</tspan>
-<tspan x="10" y="3514">120.  2017-04-20 14:18:29 +0000     3477 bytes  src/android/LibraryProject/res/layout/share.xml</tspan>
-<tspan x="10" y="3530">121.  2017-04-20 14:18:29 +0000      760 bytes  src/android/LibraryProject/res/menu/capture.xml</tspan>
-<tspan x="10" y="3546">122.  2017-04-20 14:18:29 +0000      760 bytes  src/android/LibraryProject/res/menu/encode.xml</tspan>
-<tspan x="10" y="3562">123.  2017-04-20 14:18:29 +0000     1068 bytes  src/android/LibraryProject/res/menu/history.xml</tspan>
-<tspan x="10" y="3578">124.  2017-04-20 14:18:29 +0000     6401 bytes  src/android/LibraryProject/res/raw/beep.ogg</tspan>
-<tspan x="10" y="3594">125.  2017-04-20 14:18:29 +0000    10803 bytes  src/android/LibraryProject/res/values-ar/strings\</tspan>
+<tspan x="10" y="3514">120.  2017-04-20 14:19:34 +0000     3477 bytes  src/android/LibraryProject/res/layout/share.xml</tspan>
+<tspan x="10" y="3530">121.  2017-04-20 14:19:34 +0000      760 bytes  src/android/LibraryProject/res/menu/capture.xml</tspan>
+<tspan x="10" y="3546">122.  2017-04-20 14:19:34 +0000      760 bytes  src/android/LibraryProject/res/menu/encode.xml</tspan>
+<tspan x="10" y="3562">123.  2017-04-20 14:19:34 +0000     1068 bytes  src/android/LibraryProject/res/menu/history.xml</tspan>
+<tspan x="10" y="3578">124.  2017-04-20 14:19:34 +0000     6401 bytes  src/android/LibraryProject/res/raw/beep.ogg</tspan>
+<tspan x="10" y="3594">125.  2017-04-20 14:19:34 +0000    10803 bytes  src/android/LibraryProject/res/values-ar/strings\</tspan>
 <tspan x="10" y="3610">.xml</tspan>
-<tspan x="10" y="3626">126.  2017-04-20 14:18:29 +0000    11677 bytes  src/android/LibraryProject/res/values-bg/strings\</tspan>
+<tspan x="10" y="3626">126.  2017-04-20 14:19:34 +0000    11677 bytes  src/android/LibraryProject/res/values-bg/strings\</tspan>
 <tspan x="10" y="3642">.xml</tspan>
-<tspan x="10" y="3658">127.  2017-04-20 14:18:29 +0000     9701 bytes  src/android/LibraryProject/res/values-ca/strings\</tspan>
+<tspan x="10" y="3658">127.  2017-04-20 14:19:34 +0000     9701 bytes  src/android/LibraryProject/res/values-ca/strings\</tspan>
 <tspan x="10" y="3674">.xml</tspan>
-<tspan x="10" y="3690">128.  2017-04-20 14:18:29 +0000     9452 bytes  src/android/LibraryProject/res/values-cs/strings\</tspan>
+<tspan x="10" y="3690">128.  2017-04-20 14:19:34 +0000     9452 bytes  src/android/LibraryProject/res/values-cs/strings\</tspan>
 <tspan x="10" y="3706">.xml</tspan>
-<tspan x="10" y="3722">129.  2017-04-20 14:18:29 +0000     9202 bytes  src/android/LibraryProject/res/values-da/strings\</tspan>
+<tspan x="10" y="3722">129.  2017-04-20 14:19:34 +0000     9202 bytes  src/android/LibraryProject/res/values-da/strings\</tspan>
 <tspan x="10" y="3738">.xml</tspan>
-<tspan x="10" y="3754">130.  2017-04-20 14:18:29 +0000     9275 bytes  src/android/LibraryProject/res/values-de/strings\</tspan>
+<tspan x="10" y="3754">130.  2017-04-20 14:19:34 +0000     9275 bytes  src/android/LibraryProject/res/values-de/strings\</tspan>
 <tspan x="10" y="3770">.xml</tspan>
-<tspan x="10" y="3786">131.  2017-04-20 14:18:29 +0000    11691 bytes  src/android/LibraryProject/res/values-el/strings\</tspan>
+<tspan x="10" y="3786">131.  2017-04-20 14:19:34 +0000    11691 bytes  src/android/LibraryProject/res/values-el/strings\</tspan>
 <tspan x="10" y="3802">.xml</tspan>
-<tspan x="10" y="3818">132.  2017-04-20 14:18:29 +0000     9861 bytes  src/android/LibraryProject/res/values-es/strings\</tspan>
+<tspan x="10" y="3818">132.  2017-04-20 14:19:34 +0000     9861 bytes  src/android/LibraryProject/res/values-es/strings\</tspan>
 <tspan x="10" y="3834">.xml</tspan>
-<tspan x="10" y="3850">133.  2017-04-20 14:18:29 +0000     9449 bytes  src/android/LibraryProject/res/values-eu/strings\</tspan>
+<tspan x="10" y="3850">133.  2017-04-20 14:19:34 +0000     9449 bytes  src/android/LibraryProject/res/values-eu/strings\</tspan>
 <tspan x="10" y="3866">.xml</tspan>
-<tspan x="10" y="3882">134.  2017-04-20 14:18:29 +0000     9293 bytes  src/android/LibraryProject/res/values-fi/strings\</tspan>
+<tspan x="10" y="3882">134.  2017-04-20 14:19:34 +0000     9293 bytes  src/android/LibraryProject/res/values-fi/strings\</tspan>
 <tspan x="10" y="3898">.xml</tspan>
-<tspan x="10" y="3914">135.  2017-04-20 14:18:29 +0000     9699 bytes  src/android/LibraryProject/res/values-fr/strings\</tspan>
+<tspan x="10" y="3914">135.  2017-04-20 14:19:34 +0000     9699 bytes  src/android/LibraryProject/res/values-fr/strings\</tspan>
 <tspan x="10" y="3930">.xml</tspan>
-<tspan x="10" y="3946">136.  2017-04-20 14:18:29 +0000    10166 bytes  src/android/LibraryProject/res/values-he/strings\</tspan>
+<tspan x="10" y="3946">136.  2017-04-20 14:19:34 +0000    10166 bytes  src/android/LibraryProject/res/values-he/strings\</tspan>
 <tspan x="10" y="3962">.xml</tspan>
-<tspan x="10" y="3978">137.  2017-04-20 14:18:29 +0000    13090 bytes  src/android/LibraryProject/res/values-hi/strings\</tspan>
+<tspan x="10" y="3978">137.  2017-04-20 14:19:34 +0000    13090 bytes  src/android/LibraryProject/res/values-hi/strings\</tspan>
 <tspan x="10" y="3994">.xml</tspan>
-<tspan x="10" y="4010">138.  2017-04-20 14:18:29 +0000     9516 bytes  src/android/LibraryProject/res/values-hu/strings\</tspan>
+<tspan x="10" y="4010">138.  2017-04-20 14:19:34 +0000     9516 bytes  src/android/LibraryProject/res/values-hu/strings\</tspan>
 <tspan x="10" y="4026">.xml</tspan>
-<tspan x="10" y="4042">139.  2017-04-20 14:18:29 +0000     9194 bytes  src/android/LibraryProject/res/values-id/strings\</tspan>
+<tspan x="10" y="4042">139.  2017-04-20 14:19:34 +0000     9194 bytes  src/android/LibraryProject/res/values-id/strings\</tspan>
 <tspan x="10" y="4058">.xml</tspan>
-<tspan x="10" y="4074">140.  2017-04-20 14:18:29 +0000     9495 bytes  src/android/LibraryProject/res/values-it/strings\</tspan>
+<tspan x="10" y="4074">140.  2017-04-20 14:19:34 +0000     9495 bytes  src/android/LibraryProject/res/values-it/strings\</tspan>
 <tspan x="10" y="4090">.xml</tspan>
-<tspan x="10" y="4106">141.  2017-04-20 14:18:29 +0000    10166 bytes  src/android/LibraryProject/res/values-iw/strings\</tspan>
+<tspan x="10" y="4106">141.  2017-04-20 14:19:34 +0000    10166 bytes  src/android/LibraryProject/res/values-iw/strings\</tspan>
 <tspan x="10" y="4122">.xml</tspan>
-<tspan x="10" y="4138">142.  2017-04-20 14:18:29 +0000     9999 bytes  src/android/LibraryProject/res/values-ja/strings\</tspan>
+<tspan x="10" y="4138">142.  2017-04-20 14:19:34 +0000     9999 bytes  src/android/LibraryProject/res/values-ja/strings\</tspan>
 <tspan x="10" y="4154">.xml</tspan>
-<tspan x="10" y="4170">143.  2017-04-20 14:18:29 +0000     9769 bytes  src/android/LibraryProject/res/values-ko/strings\</tspan>
+<tspan x="10" y="4170">143.  2017-04-20 14:19:34 +0000     9769 bytes  src/android/LibraryProject/res/values-ko/strings\</tspan>
 <tspan x="10" y="4186">.xml</tspan>
-<tspan x="10" y="4202">144.  2017-04-20 14:18:29 +0000     9360 bytes  src/android/LibraryProject/res/values-nl/strings\</tspan>
+<tspan x="10" y="4202">144.  2017-04-20 14:19:34 +0000     9360 bytes  src/android/LibraryProject/res/values-nl/strings\</tspan>
 <tspan x="10" y="4218">.xml</tspan>
-<tspan x="10" y="4234">145.  2017-04-20 14:18:29 +0000     9575 bytes  src/android/LibraryProject/res/values-pl/strings\</tspan>
+<tspan x="10" y="4234">145.  2017-04-20 14:19:34 +0000     9575 bytes  src/android/LibraryProject/res/values-pl/strings\</tspan>
 <tspan x="10" y="4250">.xml</tspan>
-<tspan x="10" y="4266">146.  2017-04-20 14:18:29 +0000     9562 bytes  src/android/LibraryProject/res/values-pt/strings\</tspan>
+<tspan x="10" y="4266">146.  2017-04-20 14:19:34 +0000     9562 bytes  src/android/LibraryProject/res/values-pt/strings\</tspan>
 <tspan x="10" y="4282">.xml</tspan>
-<tspan x="10" y="4298">147.  2017-04-20 14:18:29 +0000    11545 bytes  src/android/LibraryProject/res/values-ru/strings\</tspan>
+<tspan x="10" y="4298">147.  2017-04-20 14:19:34 +0000    11545 bytes  src/android/LibraryProject/res/values-ru/strings\</tspan>
 <tspan x="10" y="4314">.xml</tspan>
-<tspan x="10" y="4330">148.  2017-04-20 14:18:29 +0000     9682 bytes  src/android/LibraryProject/res/values-sk/strings\</tspan>
+<tspan x="10" y="4330">148.  2017-04-20 14:19:34 +0000     9682 bytes  src/android/LibraryProject/res/values-sk/strings\</tspan>
 <tspan x="10" y="4346">.xml</tspan>
-<tspan x="10" y="4362">149.  2017-04-20 14:18:29 +0000     9274 bytes  src/android/LibraryProject/res/values-sl/strings\</tspan>
+<tspan x="10" y="4362">149.  2017-04-20 14:19:34 +0000     9274 bytes  src/android/LibraryProject/res/values-sl/strings\</tspan>
 <tspan x="10" y="4378">.xml</tspan>
-<tspan x="10" y="4394">150.  2017-04-20 14:18:29 +0000     9216 bytes  src/android/LibraryProject/res/values-sv/strings\</tspan>
+<tspan x="10" y="4394">150.  2017-04-20 14:19:34 +0000     9216 bytes  src/android/LibraryProject/res/values-sv/strings\</tspan>
 <tspan x="10" y="4410">.xml</tspan>
-<tspan x="10" y="4426">151.  2017-04-20 14:18:29 +0000     9207 bytes  src/android/LibraryProject/res/values-tr/strings\</tspan>
+<tspan x="10" y="4426">151.  2017-04-20 14:19:34 +0000     9207 bytes  src/android/LibraryProject/res/values-tr/strings\</tspan>
 <tspan x="10" y="4442">.xml</tspan>
-<tspan x="10" y="4458">152.  2017-04-20 14:18:29 +0000     8662 bytes  src/android/LibraryProject/res/values-zh-rCN/str\</tspan>
+<tspan x="10" y="4458">152.  2017-04-20 14:19:34 +0000     8662 bytes  src/android/LibraryProject/res/values-zh-rCN/str\</tspan>
 <tspan x="10" y="4474">ings.xml</tspan>
-<tspan x="10" y="4490">153.  2017-04-20 14:18:29 +0000     8741 bytes  src/android/LibraryProject/res/values-zh-rTW/str\</tspan>
+<tspan x="10" y="4490">153.  2017-04-20 14:19:34 +0000     8741 bytes  src/android/LibraryProject/res/values-zh-rTW/str\</tspan>
 <tspan x="10" y="4506">ings.xml</tspan>
-<tspan x="10" y="4522">154.  2017-04-20 14:18:29 +0000      719 bytes  src/android/LibraryProject/res/values/arrays.xml</tspan>
-<tspan x="10" y="4538">155.  2017-04-20 14:18:29 +0000     1287 bytes  src/android/LibraryProject/res/values/colors.xml</tspan>
-<tspan x="10" y="4554">156.  2017-04-20 14:18:29 +0000      151 bytes  src/android/LibraryProject/res/values/dimens.xml</tspan>
-<tspan x="10" y="4570">157.  2017-04-20 14:18:29 +0000      931 bytes  src/android/LibraryProject/res/values/ids.xml</tspan>
-<tspan x="10" y="4586">158.  2017-04-20 14:18:29 +0000     8913 bytes  src/android/LibraryProject/res/values/strings.xm\</tspan>
+<tspan x="10" y="4522">154.  2017-04-20 14:19:34 +0000      719 bytes  src/android/LibraryProject/res/values/arrays.xml</tspan>
+<tspan x="10" y="4538">155.  2017-04-20 14:19:34 +0000     1287 bytes  src/android/LibraryProject/res/values/colors.xml</tspan>
+<tspan x="10" y="4554">156.  2017-04-20 14:19:34 +0000      151 bytes  src/android/LibraryProject/res/values/dimens.xml</tspan>
+<tspan x="10" y="4570">157.  2017-04-20 14:19:34 +0000      931 bytes  src/android/LibraryProject/res/values/ids.xml</tspan>
+<tspan x="10" y="4586">158.  2017-04-20 14:19:34 +0000     8913 bytes  src/android/LibraryProject/res/values/strings.xm\</tspan>
 <tspan x="10" y="4602">l</tspan>
-<tspan x="10" y="4618">159.  2017-04-20 14:18:29 +0000     4619 bytes  src/android/LibraryProject/res/xml/preferences.x\</tspan>
+<tspan x="10" y="4618">159.  2017-04-20 14:19:34 +0000     4619 bytes  src/android/LibraryProject/res/xml/preferences.x\</tspan>
 <tspan x="10" y="4634">ml</tspan>
-<tspan x="10" y="4650">160.  2017-04-20 14:18:29 +0000     1516 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="4650">160.  2017-04-20 14:19:34 +0000     1516 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="4666">BarcodeFormat.java</tspan>
-<tspan x="10" y="4682">161.  2017-04-20 14:18:29 +0000     3451 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="4682">161.  2017-04-20 14:19:34 +0000     3451 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="4698">Binarizer.java</tspan>
-<tspan x="10" y="4714">162.  2017-04-20 14:18:29 +0000     5051 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="4714">162.  2017-04-20 14:19:34 +0000     5051 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="4730">BinaryBitmap.java</tspan>
-<tspan x="10" y="4746">163.  2017-04-20 14:18:29 +0000     1065 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="4746">163.  2017-04-20 14:19:34 +0000     1065 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="4762">ChecksumException.java</tspan>
-<tspan x="10" y="4778">164.  2017-04-20 14:18:29 +0000     2130 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="4778">164.  2017-04-20 14:19:34 +0000     2130 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="4794">DecodeHintType.java</tspan>
-<tspan x="10" y="4810">165.  2017-04-20 14:18:29 +0000     1897 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="4810">165.  2017-04-20 14:19:34 +0000     1897 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="4826">EncodeHintType.java</tspan>
-<tspan x="10" y="4842">166.  2017-04-20 14:18:29 +0000      844 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="4842">166.  2017-04-20 14:19:34 +0000      844 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="4858">FakeR.java</tspan>
-<tspan x="10" y="4874">167.  2017-04-20 14:18:29 +0000     1109 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="4874">167.  2017-04-20 14:19:34 +0000     1109 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="4890">FormatException.java</tspan>
-<tspan x="10" y="4906">168.  2017-04-20 14:18:29 +0000     5011 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="4906">168.  2017-04-20 14:19:34 +0000     5011 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="4922">LuminanceSource.java</tspan>
-<tspan x="10" y="4938">169.  2017-04-20 14:18:29 +0000     6252 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="4938">169.  2017-04-20 14:19:34 +0000     6252 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="4954">MultiFormatReader.java</tspan>
-<tspan x="10" y="4970">170.  2017-04-20 14:18:29 +0000     2717 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="4970">170.  2017-04-20 14:19:34 +0000     2717 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="4986">MultiFormatWriter.java</tspan>
-<tspan x="10" y="5002">171.  2017-04-20 14:18:29 +0000     1062 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5002">171.  2017-04-20 14:19:34 +0000     1062 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5018">NotFoundException.java</tspan>
-<tspan x="10" y="5034">172.  2017-04-20 14:18:29 +0000     4998 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5034">172.  2017-04-20 14:19:34 +0000     4998 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5050">PlanarYUVLuminanceSource.java</tspan>
-<tspan x="10" y="5066">173.  2017-04-20 14:18:29 +0000     4539 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5066">173.  2017-04-20 14:19:34 +0000     4539 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5082">RGBLuminanceSource.java</tspan>
-<tspan x="10" y="5098">174.  2017-04-20 14:18:29 +0000     2501 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5098">174.  2017-04-20 14:19:34 +0000     2501 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5114">Reader.java</tspan>
-<tspan x="10" y="5130">175.  2017-04-20 14:18:29 +0000     1335 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5130">175.  2017-04-20 14:19:34 +0000     1335 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5146">ReaderException.java</tspan>
-<tspan x="10" y="5162">176.  2017-04-20 14:18:29 +0000     3808 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5162">176.  2017-04-20 14:19:34 +0000     3808 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5178">Result.java</tspan>
-<tspan x="10" y="5194">177.  2017-04-20 14:18:29 +0000     2503 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5194">177.  2017-04-20 14:19:34 +0000     2503 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5210">ResultMetadataType.java</tspan>
-<tspan x="10" y="5226">178.  2017-04-20 14:18:29 +0000     3936 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5226">178.  2017-04-20 14:19:34 +0000     3936 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5242">ResultPoint.java</tspan>
-<tspan x="10" y="5258">179.  2017-04-20 14:18:29 +0000      911 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5258">179.  2017-04-20 14:19:34 +0000      911 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5274">ResultPointCallback.java</tspan>
-<tspan x="10" y="5290">180.  2017-04-20 14:18:29 +0000     1745 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5290">180.  2017-04-20 14:19:34 +0000     1745 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5306">Writer.java</tspan>
-<tspan x="10" y="5322">181.  2017-04-20 14:18:29 +0000     1038 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5322">181.  2017-04-20 14:19:34 +0000     1038 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5338">WriterException.java</tspan>
-<tspan x="10" y="5354">182.  2017-04-20 14:18:29 +0000     1510 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5354">182.  2017-04-20 14:19:34 +0000     1510 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5370">aztec/AztecDetectorResult.java</tspan>
-<tspan x="10" y="5386">183.  2017-04-20 14:18:29 +0000     3045 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5386">183.  2017-04-20 14:19:34 +0000     3045 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5402">aztec/AztecReader.java</tspan>
-<tspan x="10" y="5418">184.  2017-04-20 14:18:29 +0000    13539 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5418">184.  2017-04-20 14:19:34 +0000    13539 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5434">aztec/decoder/Decoder.java</tspan>
-<tspan x="10" y="5450">185.  2017-04-20 14:18:29 +0000    18764 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5450">185.  2017-04-20 14:19:34 +0000    18764 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5466">aztec/detector/Detector.java</tspan>
-<tspan x="10" y="5482">186.  2017-04-20 14:18:29 +0000     3772 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5482">186.  2017-04-20 14:19:34 +0000     3772 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5498">client/android/BeepManager.java</tspan>
-<tspan x="10" y="5514">187.  2017-04-20 14:18:29 +0000    29127 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5514">187.  2017-04-20 14:19:34 +0000    29127 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5530">client/android/CaptureActivity.java</tspan>
-<tspan x="10" y="5546">188.  2017-04-20 14:18:29 +0000     5583 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5546">188.  2017-04-20 14:19:34 +0000     5583 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5562">client/android/CaptureActivityHandler.java</tspan>
-<tspan x="10" y="5578">189.  2017-04-20 14:18:29 +0000     3768 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5578">189.  2017-04-20 14:19:34 +0000     3768 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5594">client/android/Contents.java</tspan>
-<tspan x="10" y="5610">190.  2017-04-20 14:18:29 +0000     3681 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5610">190.  2017-04-20 14:19:34 +0000     3681 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5626">client/android/DecodeFormatManager.java</tspan>
-<tspan x="10" y="5642">191.  2017-04-20 14:18:29 +0000     4060 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5642">191.  2017-04-20 14:19:34 +0000     4060 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5658">client/android/DecodeHandler.java</tspan>
-<tspan x="10" y="5674">192.  2017-04-20 14:18:29 +0000     3123 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5674">192.  2017-04-20 14:19:34 +0000     3123 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5690">client/android/DecodeThread.java</tspan>
-<tspan x="10" y="5706">193.  2017-04-20 14:18:29 +0000     1304 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5706">193.  2017-04-20 14:19:34 +0000     1304 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5722">client/android/FinishListener.java</tspan>
-<tspan x="10" y="5738">194.  2017-04-20 14:18:29 +0000     4441 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5738">194.  2017-04-20 14:19:34 +0000     4441 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5754">client/android/HelpActivity.java</tspan>
-<tspan x="10" y="5770">195.  2017-04-20 14:18:29 +0000     7560 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5770">195.  2017-04-20 14:19:34 +0000     7560 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5786">client/android/HttpHelper.java</tspan>
-<tspan x="10" y="5802">196.  2017-04-20 14:18:29 +0000     3237 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5802">196.  2017-04-20 14:19:34 +0000     3237 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5818">client/android/InactivityTimer.java</tspan>
-<tspan x="10" y="5834">197.  2017-04-20 14:18:29 +0000      734 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5834">197.  2017-04-20 14:19:34 +0000      734 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5850">client/android/IntentSource.java</tspan>
-<tspan x="10" y="5866">198.  2017-04-20 14:18:29 +0000     9639 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5866">198.  2017-04-20 14:19:34 +0000     9639 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5882">client/android/Intents.java</tspan>
-<tspan x="10" y="5898">199.  2017-04-20 14:18:29 +0000     6973 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5898">199.  2017-04-20 14:19:34 +0000     6973 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5914">client/android/LocaleManager.java</tspan>
-<tspan x="10" y="5930">200.  2017-04-20 14:18:29 +0000     4014 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5930">200.  2017-04-20 14:19:34 +0000     4014 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5946">client/android/PreferencesActivity.java</tspan>
-<tspan x="10" y="5962">201.  2017-04-20 14:18:29 +0000     1093 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5962">201.  2017-04-20 14:19:34 +0000     1093 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="5978">client/android/ViewfinderResultPointCallback.java</tspan>
-<tspan x="10" y="5994">202.  2017-04-20 14:18:29 +0000     7015 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="5994">202.  2017-04-20 14:19:34 +0000     7015 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6010">client/android/ViewfinderView.java</tspan>
-<tspan x="10" y="6026">203.  2017-04-20 14:18:29 +0000     2172 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6026">203.  2017-04-20 14:19:34 +0000     2172 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6042">client/android/book/BrowseBookListener.java</tspan>
-<tspan x="10" y="6058">204.  2017-04-20 14:18:29 +0000    10422 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6058">204.  2017-04-20 14:19:34 +0000    10422 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6074">client/android/book/SearchBookContentsActivity.java</tspan>
-<tspan x="10" y="6090">205.  2017-04-20 14:18:29 +0000     1997 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6090">205.  2017-04-20 14:19:34 +0000     1997 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6106">client/android/book/SearchBookContentsAdapter.java</tspan>
-<tspan x="10" y="6122">206.  2017-04-20 14:18:29 +0000     2875 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6122">206.  2017-04-20 14:19:34 +0000     2875 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6138">client/android/book/SearchBookContentsListItem.java</tspan>
-<tspan x="10" y="6154">207.  2017-04-20 14:18:29 +0000     1674 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6154">207.  2017-04-20 14:19:34 +0000     1674 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6170">client/android/book/SearchBookContentsResult.java</tspan>
-<tspan x="10" y="6186">208.  2017-04-20 14:18:29 +0000     3720 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6186">208.  2017-04-20 14:19:34 +0000     3720 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6202">client/android/camera/AutoFocusManager.java</tspan>
-<tspan x="10" y="6218">209.  2017-04-20 14:18:29 +0000    10204 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6218">209.  2017-04-20 14:19:34 +0000    10204 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6234">client/android/camera/CameraConfigurationManager.java</tspan>
-<tspan x="10" y="6250">210.  2017-04-20 14:18:29 +0000    10611 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6250">210.  2017-04-20 14:19:34 +0000    10611 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6266">client/android/camera/CameraManager.java</tspan>
-<tspan x="10" y="6282">211.  2017-04-20 14:18:29 +0000     1865 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6282">211.  2017-04-20 14:19:34 +0000     1865 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6298">client/android/camera/PreviewCallback.java</tspan>
-<tspan x="10" y="6314">212.  2017-04-20 14:18:29 +0000      882 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6314">212.  2017-04-20 14:19:34 +0000      882 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6330">client/android/camera/exposure/DefaultExposureInterface.java</tspan>
-<tspan x="10" y="6346">213.  2017-04-20 14:18:29 +0000      914 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6346">213.  2017-04-20 14:19:34 +0000      914 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6362">client/android/camera/exposure/ExposureInterface.java</tspan>
-<tspan x="10" y="6378">214.  2017-04-20 14:18:29 +0000     1029 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6378">214.  2017-04-20 14:19:34 +0000     1029 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6394">client/android/camera/exposure/ExposureManager.java</tspan>
-<tspan x="10" y="6410">215.  2017-04-20 14:18:29 +0000     2007 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6410">215.  2017-04-20 14:19:34 +0000     2007 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6426">client/android/camera/exposure/FroyoExposureInterface.java</tspan>
-<tspan x="10" y="6442">216.  2017-04-20 14:18:29 +0000      955 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6442">216.  2017-04-20 14:19:34 +0000      955 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6458">client/android/camera/open/DefaultOpenCameraInterface.java</tspan>
-<tspan x="10" y="6474">217.  2017-04-20 14:18:29 +0000     1902 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6474">217.  2017-04-20 14:19:34 +0000     1902 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6490">client/android/camera/open/GingerbreadOpenCameraInterface.java</tspan>
-<tspan x="10" y="6506">218.  2017-04-20 14:18:29 +0000      957 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6506">218.  2017-04-20 14:19:34 +0000      957 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6522">client/android/camera/open/OpenCameraInterface.java</tspan>
-<tspan x="10" y="6538">219.  2017-04-20 14:18:29 +0000     1155 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6538">219.  2017-04-20 14:19:34 +0000     1155 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6554">client/android/camera/open/OpenCameraManager.java</tspan>
-<tspan x="10" y="6570">220.  2017-04-20 14:18:29 +0000     3942 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6570">220.  2017-04-20 14:19:34 +0000     3942 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6586">client/android/common/PlatformSupportManager.java</tspan>
-<tspan x="10" y="6602">221.  2017-04-20 14:18:29 +0000      791 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6602">221.  2017-04-20 14:19:34 +0000      791 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6618">client/android/common/executor/AsyncTaskExecInterface.java</tspan>
-<tspan x="10" y="6634">222.  2017-04-20 14:18:29 +0000     1064 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6634">222.  2017-04-20 14:19:34 +0000     1064 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6650">client/android/common/executor/AsyncTaskExecManager.java</tspan>
-<tspan x="10" y="6666">223.  2017-04-20 14:18:29 +0000     1045 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6666">223.  2017-04-20 14:19:34 +0000     1045 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6682">client/android/common/executor/DefaultAsyncTaskExecInterface.java</tspan>
-<tspan x="10" y="6698">224.  2017-04-20 14:18:29 +0000     1157 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6698">224.  2017-04-20 14:19:34 +0000     1157 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6714">client/android/common/executor/HoneycombAsyncTaskExecInterface.java</tspan>
-<tspan x="10" y="6730">225.  2017-04-20 14:18:29 +0000     3216 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6730">225.  2017-04-20 14:19:34 +0000     3216 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6746">client/android/encode/ContactEncoder.java</tspan>
-<tspan x="10" y="6762">226.  2017-04-20 14:18:29 +0000     8091 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6762">226.  2017-04-20 14:19:34 +0000     8091 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6778">client/android/encode/EncodeActivity.java</tspan>
-<tspan x="10" y="6794">227.  2017-04-20 14:18:29 +0000      838 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6794">227.  2017-04-20 14:19:34 +0000      838 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6810">client/android/encode/Formatter.java</tspan>
-<tspan x="10" y="6826">228.  2017-04-20 14:18:29 +0000     3815 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6826">228.  2017-04-20 14:19:34 +0000     3815 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6842">client/android/encode/MECARDContactEncoder.java</tspan>
-<tspan x="10" y="6858">229.  2017-04-20 14:18:29 +0000    13736 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6858">229.  2017-04-20 14:19:34 +0000    13736 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6874">client/android/encode/QRCodeEncoder.java</tspan>
-<tspan x="10" y="6890">230.  2017-04-20 14:18:29 +0000     3634 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6890">230.  2017-04-20 14:19:34 +0000     3634 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6906">client/android/encode/VCardContactEncoder.java</tspan>
-<tspan x="10" y="6922">231.  2017-04-20 14:18:29 +0000     1964 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6922">231.  2017-04-20 14:19:34 +0000     1964 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6938">client/android/history/DBHelper.java</tspan>
-<tspan x="10" y="6954">232.  2017-04-20 14:18:29 +0000     5621 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6954">232.  2017-04-20 14:19:34 +0000     5621 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="6970">client/android/history/HistoryActivity.java</tspan>
-<tspan x="10" y="6986">233.  2017-04-20 14:18:29 +0000     1422 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="6986">233.  2017-04-20 14:19:34 +0000     1422 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7002">client/android/history/HistoryItem.java</tspan>
-<tspan x="10" y="7018">234.  2017-04-20 14:18:29 +0000     2531 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7018">234.  2017-04-20 14:19:34 +0000     2531 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7034">client/android/history/HistoryItemAdapter.java</tspan>
-<tspan x="10" y="7050">235.  2017-04-20 14:18:29 +0000    12286 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7050">235.  2017-04-20 14:19:34 +0000    12286 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7066">client/android/history/HistoryManager.java</tspan>
-<tspan x="10" y="7082">236.  2017-04-20 14:18:29 +0000     1844 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7082">236.  2017-04-20 14:19:34 +0000     1844 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7098">client/android/pref/BSPlusPreference.java</tspan>
-<tspan x="10" y="7114">237.  2017-04-20 14:18:29 +0000     7243 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7114">237.  2017-04-20 14:19:34 +0000     7243 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7130">client/android/result/AddressBookResultHandler.java</tspan>
-<tspan x="10" y="7146">238.  2017-04-20 14:18:29 +0000     6384 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7146">238.  2017-04-20 14:19:34 +0000     6384 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7162">client/android/result/CalendarResultHandler.java</tspan>
-<tspan x="10" y="7178">239.  2017-04-20 14:18:29 +0000     2106 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7178">239.  2017-04-20 14:19:34 +0000     2106 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7194">client/android/result/EmailAddressResultHandler.java</tspan>
-<tspan x="10" y="7210">240.  2017-04-20 14:18:29 +0000     1856 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7210">240.  2017-04-20 14:19:34 +0000     1856 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7226">client/android/result/GeoResultHandler.java</tspan>
-<tspan x="10" y="7242">241.  2017-04-20 14:18:29 +0000     2491 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7242">241.  2017-04-20 14:19:34 +0000     2491 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7258">client/android/result/ISBNResultHandler.java</tspan>
-<tspan x="10" y="7274">242.  2017-04-20 14:18:29 +0000     2454 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7274">242.  2017-04-20 14:19:34 +0000     2454 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7290">client/android/result/ProductResultHandler.java</tspan>
-<tspan x="10" y="7306">243.  2017-04-20 14:18:29 +0000     1322 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7306">243.  2017-04-20 14:19:34 +0000     1322 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7322">client/android/result/ResultButtonListener.java</tspan>
-<tspan x="10" y="7338">244.  2017-04-20 14:18:29 +0000    19348 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7338">244.  2017-04-20 14:19:34 +0000    19348 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7354">client/android/result/ResultHandler.java</tspan>
-<tspan x="10" y="7370">245.  2017-04-20 14:18:29 +0000     2239 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7370">245.  2017-04-20 14:19:34 +0000     2239 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7386">client/android/result/ResultHandlerFactory.java</tspan>
-<tspan x="10" y="7402">246.  2017-04-20 14:18:29 +0000     2660 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7402">246.  2017-04-20 14:19:34 +0000     2660 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7418">client/android/result/SMSResultHandler.java</tspan>
-<tspan x="10" y="7434">247.  2017-04-20 14:18:29 +0000     2495 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7434">247.  2017-04-20 14:19:34 +0000     2495 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7450">client/android/result/TelResultHandler.java</tspan>
-<tspan x="10" y="7466">248.  2017-04-20 14:18:29 +0000     2104 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7466">248.  2017-04-20 14:19:34 +0000     2104 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7482">client/android/result/TextResultHandler.java</tspan>
-<tspan x="10" y="7498">249.  2017-04-20 14:18:29 +0000     2752 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7498">249.  2017-04-20 14:19:34 +0000     2752 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7514">client/android/result/URIResultHandler.java</tspan>
-<tspan x="10" y="7530">250.  2017-04-20 14:18:29 +0000     3086 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7530">250.  2017-04-20 14:19:34 +0000     3086 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7546">client/android/result/WifiResultHandler.java</tspan>
-<tspan x="10" y="7562">251.  2017-04-20 14:18:29 +0000     3803 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7562">251.  2017-04-20 14:19:34 +0000     3803 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7578">client/android/result/supplement/BookResultInfoRetriever.java</tspan>
-<tspan x="10" y="7594">252.  2017-04-20 14:18:29 +0000     2647 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7594">252.  2017-04-20 14:19:34 +0000     2647 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7610">client/android/result/supplement/ProductResultInfoRetriever.java</tspan>
-<tspan x="10" y="7626">253.  2017-04-20 14:18:29 +0000     5410 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7626">253.  2017-04-20 14:19:34 +0000     5410 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7642">client/android/result/supplement/SupplementalInfoRetriever.java</tspan>
-<tspan x="10" y="7658">254.  2017-04-20 14:18:29 +0000     2121 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7658">254.  2017-04-20 14:19:34 +0000     2121 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7674">client/android/result/supplement/TitleRetriever.java</tspan>
-<tspan x="10" y="7690">255.  2017-04-20 14:18:29 +0000     2091 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7690">255.  2017-04-20 14:19:34 +0000     2091 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7706">client/android/result/supplement/URIResultInfoRetriever.java</tspan>
-<tspan x="10" y="7722">256.  2017-04-20 14:18:29 +0000     2263 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7722">256.  2017-04-20 14:19:34 +0000     2263 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7738">client/android/share/AppPickerActivity.java</tspan>
-<tspan x="10" y="7754">257.  2017-04-20 14:18:29 +0000     2780 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7754">257.  2017-04-20 14:19:34 +0000     2780 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7770">client/android/share/BookmarkAdapter.java</tspan>
-<tspan x="10" y="7786">258.  2017-04-20 14:18:29 +0000     2621 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7786">258.  2017-04-20 14:19:34 +0000     2621 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7802">client/android/share/BookmarkPickerActivity.java</tspan>
-<tspan x="10" y="7818">259.  2017-04-20 14:18:29 +0000     3238 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7818">259.  2017-04-20 14:19:34 +0000     3238 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7834">client/android/share/LoadPackagesAsyncTask.java</tspan>
-<tspan x="10" y="7850">260.  2017-04-20 14:18:29 +0000    11224 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7850">260.  2017-04-20 14:19:34 +0000    11224 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7866">client/android/share/ShareActivity.java</tspan>
-<tspan x="10" y="7882">261.  2017-04-20 14:18:29 +0000     1111 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7882">261.  2017-04-20 14:19:34 +0000     1111 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7898">client/android/wifi/NetworkType.java</tspan>
-<tspan x="10" y="7914">262.  2017-04-20 14:18:29 +0000     8508 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7914">262.  2017-04-20 14:19:34 +0000     8508 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7930">client/android/wifi/WifiConfigManager.java</tspan>
-<tspan x="10" y="7946">263.  2017-04-20 14:18:29 +0000     1405 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7946">263.  2017-04-20 14:19:34 +0000     1405 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7962">client/result/AbstractDoCoMoResultParser.java</tspan>
-<tspan x="10" y="7978">264.  2017-04-20 14:18:29 +0000     3448 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="7978">264.  2017-04-20 14:19:34 +0000     3448 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="7994">client/result/AddressBookAUResultParser.java</tspan>
-<tspan x="10" y="8010">265.  2017-04-20 14:18:29 +0000     3445 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8010">265.  2017-04-20 14:19:34 +0000     3445 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8026">client/result/AddressBookDoCoMoResultParser.java</tspan>
-<tspan x="10" y="8042">266.  2017-04-20 14:18:29 +0000     4585 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8042">266.  2017-04-20 14:19:34 +0000     4585 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8058">client/result/AddressBookParsedResult.java</tspan>
-<tspan x="10" y="8074">267.  2017-04-20 14:18:29 +0000     3605 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8074">267.  2017-04-20 14:19:34 +0000     3605 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8090">client/result/BizcardResultParser.java</tspan>
-<tspan x="10" y="8106">268.  2017-04-20 14:18:29 +0000     1277 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8106">268.  2017-04-20 14:19:34 +0000     1277 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8122">client/result/BookmarkDoCoMoResultParser.java</tspan>
-<tspan x="10" y="8138">269.  2017-04-20 14:18:29 +0000     6002 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8138">269.  2017-04-20 14:19:34 +0000     6002 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8154">client/result/CalendarParsedResult.java</tspan>
-<tspan x="10" y="8170">270.  2017-04-20 14:18:29 +0000     1687 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8170">270.  2017-04-20 14:19:34 +0000     1687 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8186">client/result/EmailAddressParsedResult.java</tspan>
-<tspan x="10" y="8202">271.  2017-04-20 14:18:29 +0000     2129 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8202">271.  2017-04-20 14:19:34 +0000     2129 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8218">client/result/EmailAddressResultParser.java</tspan>
-<tspan x="10" y="8234">272.  2017-04-20 14:18:29 +0000     2177 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8234">272.  2017-04-20 14:19:34 +0000     2177 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8250">client/result/EmailDoCoMoResultParser.java</tspan>
-<tspan x="10" y="8266">273.  2017-04-20 14:18:29 +0000     5891 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8266">273.  2017-04-20 14:19:34 +0000     5891 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8282">client/result/ExpandedProductParsedResult.java</tspan>
-<tspan x="10" y="8298">274.  2017-04-20 14:18:29 +0000     6763 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8298">274.  2017-04-20 14:19:34 +0000     6763 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8314">client/result/ExpandedProductResultParser.java</tspan>
-<tspan x="10" y="8330">275.  2017-04-20 14:18:29 +0000     2436 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8330">275.  2017-04-20 14:19:34 +0000     2436 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8346">client/result/GeoParsedResult.java</tspan>
-<tspan x="10" y="8362">276.  2017-04-20 14:18:29 +0000     2217 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8362">276.  2017-04-20 14:19:34 +0000     2217 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8378">client/result/GeoResultParser.java</tspan>
-<tspan x="10" y="8394">277.  2017-04-20 14:18:29 +0000     1006 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8394">277.  2017-04-20 14:19:34 +0000     1006 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8410">client/result/ISBNParsedResult.java</tspan>
-<tspan x="10" y="8426">278.  2017-04-20 14:18:29 +0000     1443 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8426">278.  2017-04-20 14:19:34 +0000     1443 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8442">client/result/ISBNResultParser.java</tspan>
-<tspan x="10" y="8458">279.  2017-04-20 14:18:29 +0000     2131 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8458">279.  2017-04-20 14:19:34 +0000     2131 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8474">client/result/ParsedResult.java</tspan>
-<tspan x="10" y="8490">280.  2017-04-20 14:18:29 +0000      926 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8490">280.  2017-04-20 14:19:34 +0000      926 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8506">client/result/ParsedResultType.java</tspan>
-<tspan x="10" y="8522">281.  2017-04-20 14:18:29 +0000     1331 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8522">281.  2017-04-20 14:19:34 +0000     1331 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8538">client/result/ProductParsedResult.java</tspan>
-<tspan x="10" y="8554">282.  2017-04-20 14:18:29 +0000     1916 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8554">282.  2017-04-20 14:19:34 +0000     1916 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8570">client/result/ProductResultParser.java</tspan>
-<tspan x="10" y="8586">283.  2017-04-20 14:18:29 +0000     7797 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8586">283.  2017-04-20 14:19:34 +0000     7797 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8602">client/result/ResultParser.java</tspan>
-<tspan x="10" y="8618">284.  2017-04-20 14:18:29 +0000     3895 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8618">284.  2017-04-20 14:19:34 +0000     3895 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8634">client/result/SMSMMSResultParser.java</tspan>
-<tspan x="10" y="8650">285.  2017-04-20 14:18:29 +0000     2789 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8650">285.  2017-04-20 14:19:34 +0000     2789 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8666">client/result/SMSParsedResult.java</tspan>
-<tspan x="10" y="8682">286.  2017-04-20 14:18:29 +0000     1813 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8682">286.  2017-04-20 14:19:34 +0000     1813 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8698">client/result/SMSTOMMSTOResultParser.java</tspan>
-<tspan x="10" y="8714">287.  2017-04-20 14:18:29 +0000     1750 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8714">287.  2017-04-20 14:19:34 +0000     1750 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8730">client/result/SMTPResultParser.java</tspan>
-<tspan x="10" y="8746">288.  2017-04-20 14:18:29 +0000     1366 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8746">288.  2017-04-20 14:19:34 +0000     1366 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8762">client/result/TelParsedResult.java</tspan>
-<tspan x="10" y="8778">289.  2017-04-20 14:18:29 +0000     1383 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8778">289.  2017-04-20 14:19:34 +0000     1383 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8794">client/result/TelResultParser.java</tspan>
-<tspan x="10" y="8810">290.  2017-04-20 14:18:29 +0000     1212 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8810">290.  2017-04-20 14:19:34 +0000     1212 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8826">client/result/TextParsedResult.java</tspan>
-<tspan x="10" y="8842">291.  2017-04-20 14:18:29 +0000     2928 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8842">291.  2017-04-20 14:19:34 +0000     2928 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8858">client/result/URIParsedResult.java</tspan>
-<tspan x="10" y="8874">292.  2017-04-20 14:18:29 +0000     2117 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8874">292.  2017-04-20 14:19:34 +0000     2117 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8890">client/result/URIResultParser.java</tspan>
-<tspan x="10" y="8906">293.  2017-04-20 14:18:29 +0000     1432 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8906">293.  2017-04-20 14:19:34 +0000     1432 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8922">client/result/URLTOResultParser.java</tspan>
-<tspan x="10" y="8938">294.  2017-04-20 14:18:29 +0000    13530 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8938">294.  2017-04-20 14:19:34 +0000    13530 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8954">client/result/VCardResultParser.java</tspan>
-<tspan x="10" y="8970">295.  2017-04-20 14:18:29 +0000     3998 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="8970">295.  2017-04-20 14:19:34 +0000     3998 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="8986">client/result/VEventResultParser.java</tspan>
-<tspan x="10" y="9002">296.  2017-04-20 14:18:29 +0000     1812 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9002">296.  2017-04-20 14:19:34 +0000     1812 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9018">client/result/WifiParsedResult.java</tspan>
-<tspan x="10" y="9034">297.  2017-04-20 14:18:29 +0000     1703 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9034">297.  2017-04-20 14:19:34 +0000     1703 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9050">client/result/WifiResultParser.java</tspan>
-<tspan x="10" y="9066">298.  2017-04-20 14:18:29 +0000     8960 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9066">298.  2017-04-20 14:19:34 +0000     8960 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9082">common/BitArray.java</tspan>
-<tspan x="10" y="9098">299.  2017-04-20 14:18:29 +0000     8700 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9098">299.  2017-04-20 14:19:34 +0000     8700 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9114">common/BitMatrix.java</tspan>
-<tspan x="10" y="9130">300.  2017-04-20 14:18:29 +0000     3430 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9130">300.  2017-04-20 14:19:34 +0000     3430 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9146">common/BitSource.java</tspan>
-<tspan x="10" y="9162">301.  2017-04-20 14:18:29 +0000     3539 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9162">301.  2017-04-20 14:19:34 +0000     3539 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9178">common/CharacterSetECI.java</tspan>
-<tspan x="10" y="9194">302.  2017-04-20 14:18:29 +0000     1616 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9194">302.  2017-04-20 14:19:34 +0000     1616 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9210">common/DecoderResult.java</tspan>
-<tspan x="10" y="9226">303.  2017-04-20 14:18:29 +0000     3615 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9226">303.  2017-04-20 14:19:34 +0000     3615 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9242">common/DefaultGridSampler.java</tspan>
-<tspan x="10" y="9258">304.  2017-04-20 14:18:29 +0000     1329 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9258">304.  2017-04-20 14:19:34 +0000     1329 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9274">common/DetectorResult.java</tspan>
-<tspan x="10" y="9290">305.  2017-04-20 14:18:29 +0000     6669 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9290">305.  2017-04-20 14:19:34 +0000     6669 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9306">common/GlobalHistogramBinarizer.java</tspan>
-<tspan x="10" y="9322">306.  2017-04-20 14:18:29 +0000     6363 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9322">306.  2017-04-20 14:19:34 +0000     6363 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9338">common/GridSampler.java</tspan>
-<tspan x="10" y="9354">307.  2017-04-20 14:18:29 +0000     9947 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9354">307.  2017-04-20 14:19:34 +0000     9947 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9370">common/HybridBinarizer.java</tspan>
-<tspan x="10" y="9386">308.  2017-04-20 14:18:29 +0000     6390 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9386">308.  2017-04-20 14:19:34 +0000     6390 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9402">common/PerspectiveTransform.java</tspan>
-<tspan x="10" y="9418">309.  2017-04-20 14:18:29 +0000     7018 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9418">309.  2017-04-20 14:19:34 +0000     7018 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9434">common/StringUtils.java</tspan>
-<tspan x="10" y="9450">310.  2017-04-20 14:18:29 +0000     1311 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9450">310.  2017-04-20 14:19:34 +0000     1311 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9466">common/detector/MathUtils.java</tspan>
-<tspan x="10" y="9482">311.  2017-04-20 14:18:29 +0000     8399 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9482">311.  2017-04-20 14:19:34 +0000     8399 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9498">common/detector/MonochromeRectangleDetector.java</tspan>
-<tspan x="10" y="9514">312.  2017-04-20 14:18:29 +0000     9484 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9514">312.  2017-04-20 14:19:34 +0000     9484 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9530">common/detector/WhiteRectangleDetector.java</tspan>
-<tspan x="10" y="9546">313.  2017-04-20 14:18:29 +0000     4727 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9546">313.  2017-04-20 14:19:34 +0000     4727 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9562">common/reedsolomon/GenericGF.java</tspan>
-<tspan x="10" y="9578">314.  2017-04-20 14:18:29 +0000     8410 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9578">314.  2017-04-20 14:19:34 +0000     8410 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9594">common/reedsolomon/GenericGFPoly.java</tspan>
-<tspan x="10" y="9610">315.  2017-04-20 14:18:29 +0000     7146 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9610">315.  2017-04-20 14:19:34 +0000     7146 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9626">common/reedsolomon/ReedSolomonDecoder.java</tspan>
-<tspan x="10" y="9642">316.  2017-04-20 14:18:29 +0000     2778 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9642">316.  2017-04-20 14:19:34 +0000     2778 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9658">common/reedsolomon/ReedSolomonEncoder.java</tspan>
-<tspan x="10" y="9674">317.  2017-04-20 14:18:29 +0000      938 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9674">317.  2017-04-20 14:19:34 +0000      938 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9690">common/reedsolomon/ReedSolomonException.java</tspan>
-<tspan x="10" y="9706">318.  2017-04-20 14:18:29 +0000     5578 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9706">318.  2017-04-20 14:19:34 +0000     5578 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9722">datamatrix/DataMatrixReader.java</tspan>
-<tspan x="10" y="9738">319.  2017-04-20 14:18:29 +0000    15105 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9738">319.  2017-04-20 14:19:34 +0000    15105 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9754">datamatrix/decoder/BitMatrixParser.java</tspan>
-<tspan x="10" y="9770">320.  2017-04-20 14:18:29 +0000     4690 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9770">320.  2017-04-20 14:19:34 +0000     4690 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9786">datamatrix/decoder/DataBlock.java</tspan>
-<tspan x="10" y="9802">321.  2017-04-20 14:18:29 +0000    17117 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9802">321.  2017-04-20 14:19:34 +0000    17117 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9818">datamatrix/decoder/DecodedBitStreamParser.java</tspan>
-<tspan x="10" y="9834">322.  2017-04-20 14:18:29 +0000     5244 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9834">322.  2017-04-20 14:19:34 +0000     5244 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9850">datamatrix/decoder/Decoder.java</tspan>
-<tspan x="10" y="9866">323.  2017-04-20 14:18:29 +0000     7890 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9866">323.  2017-04-20 14:19:34 +0000     7890 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9882">datamatrix/decoder/Version.java</tspan>
-<tspan x="10" y="9898">324.  2017-04-20 14:18:29 +0000    15989 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9898">324.  2017-04-20 14:19:34 +0000    15989 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9914">datamatrix/detector/Detector.java</tspan>
-<tspan x="10" y="9930">325.  2017-04-20 14:18:29 +0000     4287 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9930">325.  2017-04-20 14:19:34 +0000     4287 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9946">maxicode/MaxiCodeReader.java</tspan>
-<tspan x="10" y="9962">326.  2017-04-20 14:18:29 +0000     5625 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9962">326.  2017-04-20 14:19:34 +0000     5625 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="9978">maxicode/decoder/BitMatrixParser.java</tspan>
-<tspan x="10" y="9994">327.  2017-04-20 14:18:29 +0000     7832 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="9994">327.  2017-04-20 14:19:34 +0000     7832 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10010">maxicode/decoder/DecodedBitStreamParser.java</tspan>
-<tspan x="10" y="10026">328.  2017-04-20 14:18:29 +0000     3826 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10026">328.  2017-04-20 14:19:34 +0000     3826 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10042">maxicode/decoder/Decoder.java</tspan>
-<tspan x="10" y="10058">329.  2017-04-20 14:18:29 +0000     3115 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10058">329.  2017-04-20 14:19:34 +0000     3115 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10074">multi/ByQuadrantReader.java</tspan>
-<tspan x="10" y="10090">330.  2017-04-20 14:18:29 +0000     5163 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10090">330.  2017-04-20 14:19:34 +0000     5163 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10106">multi/GenericMultipleBarcodeReader.java</tspan>
-<tspan x="10" y="10122">331.  2017-04-20 14:18:29 +0000     1203 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10122">331.  2017-04-20 14:19:34 +0000     1203 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10138">multi/MultipleBarcodeReader.java</tspan>
-<tspan x="10" y="10154">332.  2017-04-20 14:18:29 +0000     2992 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10154">332.  2017-04-20 14:19:34 +0000     2992 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10170">multi/qrcode/QRCodeMultiReader.java</tspan>
-<tspan x="10" y="10186">333.  2017-04-20 14:18:29 +0000     2421 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10186">333.  2017-04-20 14:19:34 +0000     2421 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10202">multi/qrcode/detector/MultiDetector.java</tspan>
-<tspan x="10" y="10218">334.  2017-04-20 14:18:29 +0000    12705 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10218">334.  2017-04-20 14:19:34 +0000    12705 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10234">multi/qrcode/detector/MultiFinderPatternFinder.java</tspan>
-<tspan x="10" y="10250">335.  2017-04-20 14:18:29 +0000    11846 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10250">335.  2017-04-20 14:19:34 +0000    11846 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10266">oned/CodaBarReader.java</tspan>
-<tspan x="10" y="10282">336.  2017-04-20 14:18:29 +0000     3787 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10282">336.  2017-04-20 14:19:34 +0000     3787 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10298">oned/CodaBarWriter.java</tspan>
-<tspan x="10" y="10314">337.  2017-04-20 14:18:29 +0000    14162 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10314">337.  2017-04-20 14:19:34 +0000    14162 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10330">oned/Code128Reader.java</tspan>
-<tspan x="10" y="10346">338.  2017-04-20 14:18:29 +0000     6343 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10346">338.  2017-04-20 14:19:34 +0000     6343 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10362">oned/Code128Writer.java</tspan>
-<tspan x="10" y="10378">339.  2017-04-20 14:18:29 +0000    10970 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10378">339.  2017-04-20 14:19:34 +0000    10970 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10394">oned/Code39Reader.java</tspan>
-<tspan x="10" y="10410">340.  2017-04-20 14:18:29 +0000     2993 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10410">340.  2017-04-20 14:19:34 +0000     2993 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10426">oned/Code39Writer.java</tspan>
-<tspan x="10" y="10442">341.  2017-04-20 14:18:29 +0000     8640 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10442">341.  2017-04-20 14:19:34 +0000     8640 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10458">oned/Code93Reader.java</tspan>
-<tspan x="10" y="10474">342.  2017-04-20 14:18:29 +0000     4784 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10474">342.  2017-04-20 14:19:34 +0000     4784 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10490">oned/EAN13Reader.java</tspan>
-<tspan x="10" y="10506">343.  2017-04-20 14:18:29 +0000     3158 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10506">343.  2017-04-20 14:19:34 +0000     3158 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10522">oned/EAN13Writer.java</tspan>
-<tspan x="10" y="10538">344.  2017-04-20 14:18:29 +0000     2115 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10538">344.  2017-04-20 14:19:34 +0000     2115 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10554">oned/EAN8Reader.java</tspan>
-<tspan x="10" y="10570">345.  2017-04-20 14:18:29 +0000     2639 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10570">345.  2017-04-20 14:19:34 +0000     2639 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10586">oned/EAN8Writer.java</tspan>
-<tspan x="10" y="10602">346.  2017-04-20 14:18:29 +0000     5790 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10602">346.  2017-04-20 14:19:34 +0000     5790 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10618">oned/EANManufacturerOrgSupport.java</tspan>
-<tspan x="10" y="10634">347.  2017-04-20 14:18:29 +0000    12499 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10634">347.  2017-04-20 14:19:34 +0000    12499 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10650">oned/ITFReader.java</tspan>
-<tspan x="10" y="10666">348.  2017-04-20 14:18:29 +0000     2550 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10666">348.  2017-04-20 14:19:34 +0000     2550 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10682">oned/ITFWriter.java</tspan>
-<tspan x="10" y="10698">349.  2017-04-20 14:18:29 +0000     3761 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10698">349.  2017-04-20 14:19:34 +0000     3761 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10714">oned/MultiFormatOneDReader.java</tspan>
-<tspan x="10" y="10730">350.  2017-04-20 14:18:29 +0000     4678 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10730">350.  2017-04-20 14:19:34 +0000     4678 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10746">oned/MultiFormatUPCEANReader.java</tspan>
-<tspan x="10" y="10762">351.  2017-04-20 14:18:29 +0000    12402 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10762">351.  2017-04-20 14:19:34 +0000    12402 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10778">oned/OneDReader.java</tspan>
-<tspan x="10" y="10794">352.  2017-04-20 14:18:29 +0000     4514 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10794">352.  2017-04-20 14:19:34 +0000     4514 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10810">oned/OneDimensionalCodeWriter.java</tspan>
-<tspan x="10" y="10826">353.  2017-04-20 14:18:29 +0000     2810 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10826">353.  2017-04-20 14:19:34 +0000     2810 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10842">oned/UPCAReader.java</tspan>
-<tspan x="10" y="10858">354.  2017-04-20 14:18:29 +0000     2435 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10858">354.  2017-04-20 14:19:34 +0000     2435 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10874">oned/UPCAWriter.java</tspan>
-<tspan x="10" y="10890">355.  2017-04-20 14:18:29 +0000     3708 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10890">355.  2017-04-20 14:19:34 +0000     3708 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10906">oned/UPCEANExtension2Support.java</tspan>
-<tspan x="10" y="10922">356.  2017-04-20 14:18:29 +0000     5612 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10922">356.  2017-04-20 14:19:34 +0000     5612 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10938">oned/UPCEANExtension5Support.java</tspan>
-<tspan x="10" y="10954">357.  2017-04-20 14:18:29 +0000     1470 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10954">357.  2017-04-20 14:19:34 +0000     1470 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="10970">oned/UPCEANExtensionSupport.java</tspan>
-<tspan x="10" y="10986">358.  2017-04-20 14:18:29 +0000    13278 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="10986">358.  2017-04-20 14:19:34 +0000    13278 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11002">oned/UPCEANReader.java</tspan>
-<tspan x="10" y="11018">359.  2017-04-20 14:18:29 +0000     1095 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11018">359.  2017-04-20 14:19:34 +0000     1095 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11034">oned/UPCEANWriter.java</tspan>
-<tspan x="10" y="11050">360.  2017-04-20 14:18:29 +0000     4698 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11050">360.  2017-04-20 14:19:34 +0000     4698 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11066">oned/UPCEReader.java</tspan>
-<tspan x="10" y="11082">361.  2017-04-20 14:18:29 +0000     4064 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11082">361.  2017-04-20 14:19:34 +0000     4064 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11098">oned/rss/AbstractRSSReader.java</tspan>
-<tspan x="10" y="11114">362.  2017-04-20 14:18:29 +0000      992 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11114">362.  2017-04-20 14:19:34 +0000      992 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11130">oned/rss/DataCharacter.java</tspan>
-<tspan x="10" y="11146">363.  2017-04-20 14:18:29 +0000     1307 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11146">363.  2017-04-20 14:19:34 +0000     1307 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11162">oned/rss/FinderPattern.java</tspan>
-<tspan x="10" y="11178">364.  2017-04-20 14:18:29 +0000     1049 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11178">364.  2017-04-20 14:19:34 +0000     1049 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11194">oned/rss/Pair.java</tspan>
-<tspan x="10" y="11210">365.  2017-04-20 14:18:29 +0000    14918 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11210">365.  2017-04-20 14:19:34 +0000    14918 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11226">oned/rss/RSS14Reader.java</tspan>
-<tspan x="10" y="11242">366.  2017-04-20 14:18:29 +0000     4477 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11242">366.  2017-04-20 14:19:34 +0000     4477 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11258">oned/rss/RSSUtils.java</tspan>
-<tspan x="10" y="11274">367.  2017-04-20 14:18:29 +0000     2424 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11274">367.  2017-04-20 14:19:34 +0000     2424 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11290">oned/rss/expanded/BitArrayBuilder.java</tspan>
-<tspan x="10" y="11306">368.  2017-04-20 14:18:29 +0000     2002 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11306">368.  2017-04-20 14:19:34 +0000     2002 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11322">oned/rss/expanded/ExpandedPair.java</tspan>
-<tspan x="10" y="11338">369.  2017-04-20 14:18:29 +0000    19044 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11338">369.  2017-04-20 14:19:34 +0000    19044 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11354">oned/rss/expanded/RSSExpandedReader.java</tspan>
-<tspan x="10" y="11370">370.  2017-04-20 14:18:29 +0000     1438 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11370">370.  2017-04-20 14:19:34 +0000     1438 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11386">oned/rss/expanded/decoders/AI013103decoder.java</tspan>
-<tspan x="10" y="11402">371.  2017-04-20 14:18:29 +0000     1574 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11402">371.  2017-04-20 14:19:34 +0000     1574 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11418">oned/rss/expanded/decoders/AI01320xDecoder.java</tspan>
-<tspan x="10" y="11434">372.  2017-04-20 14:18:29 +0000     2130 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11434">372.  2017-04-20 14:19:34 +0000     2130 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11450">oned/rss/expanded/decoders/AI01392xDecoder.java</tspan>
-<tspan x="10" y="11466">373.  2017-04-20 14:18:29 +0000     2540 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11466">373.  2017-04-20 14:19:34 +0000     2540 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11482">oned/rss/expanded/decoders/AI01393xDecoder.java</tspan>
-<tspan x="10" y="11498">374.  2017-04-20 14:18:29 +0000     3187 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11498">374.  2017-04-20 14:19:34 +0000     3187 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11514">oned/rss/expanded/decoders/AI013x0x1xDecoder.java</tspan>
-<tspan x="10" y="11530">375.  2017-04-20 14:18:29 +0000     1807 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11530">375.  2017-04-20 14:19:34 +0000     1807 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11546">oned/rss/expanded/decoders/AI013x0xDecoder.java</tspan>
-<tspan x="10" y="11562">376.  2017-04-20 14:18:29 +0000     2070 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11562">376.  2017-04-20 14:19:34 +0000     2070 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11578">oned/rss/expanded/decoders/AI01AndOtherAIs.java</tspan>
-<tspan x="10" y="11594">377.  2017-04-20 14:18:29 +0000     2500 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11594">377.  2017-04-20 14:19:34 +0000     2500 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11610">oned/rss/expanded/decoders/AI01decoder.java</tspan>
-<tspan x="10" y="11626">378.  2017-04-20 14:18:29 +0000     1920 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11626">378.  2017-04-20 14:19:34 +0000     1920 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11642">oned/rss/expanded/decoders/AI01weightDecoder.java</tspan>
-<tspan x="10" y="11658">379.  2017-04-20 14:18:29 +0000     3348 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11658">379.  2017-04-20 14:19:34 +0000     3348 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11674">oned/rss/expanded/decoders/AbstractExpandedDecoder.java</tspan>
-<tspan x="10" y="11690">380.  2017-04-20 14:18:29 +0000     1628 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11690">380.  2017-04-20 14:19:34 +0000     1628 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11706">oned/rss/expanded/decoders/AnyAIDecoder.java</tspan>
-<tspan x="10" y="11722">381.  2017-04-20 14:18:29 +0000     1656 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11722">381.  2017-04-20 14:19:34 +0000     1656 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11738">oned/rss/expanded/decoders/BlockParsedResult.java</tspan>
-<tspan x="10" y="11754">382.  2017-04-20 14:18:29 +0000     1915 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11754">382.  2017-04-20 14:19:34 +0000     1915 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11770">oned/rss/expanded/decoders/CurrentParsingState.java</tspan>
-<tspan x="10" y="11786">383.  2017-04-20 14:18:29 +0000     1540 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11786">383.  2017-04-20 14:19:34 +0000     1540 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11802">oned/rss/expanded/decoders/DecodedChar.java</tspan>
-<tspan x="10" y="11818">384.  2017-04-20 14:18:29 +0000     1890 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11818">384.  2017-04-20 14:19:34 +0000     1890 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11834">oned/rss/expanded/decoders/DecodedInformation.java</tspan>
-<tspan x="10" y="11850">385.  2017-04-20 14:18:29 +0000     2198 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11850">385.  2017-04-20 14:19:34 +0000     2198 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11866">oned/rss/expanded/decoders/DecodedNumeric.java</tspan>
-<tspan x="10" y="11882">386.  2017-04-20 14:18:29 +0000     1292 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11882">386.  2017-04-20 14:19:34 +0000     1292 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11898">oned/rss/expanded/decoders/DecodedObject.java</tspan>
-<tspan x="10" y="11914">387.  2017-04-20 14:18:29 +0000     8087 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11914">387.  2017-04-20 14:19:34 +0000     8087 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11930">oned/rss/expanded/decoders/FieldParser.java</tspan>
-<tspan x="10" y="11946">388.  2017-04-20 14:18:29 +0000    13440 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11946">388.  2017-04-20 14:19:34 +0000    13440 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11962">oned/rss/expanded/decoders/GeneralAppIdDecoder.java</tspan>
-<tspan x="10" y="11978">389.  2017-04-20 14:18:29 +0000     6474 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="11978">389.  2017-04-20 14:19:34 +0000     6474 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="11994">pdf417/PDF417Reader.java</tspan>
-<tspan x="10" y="12010">390.  2017-04-20 14:18:29 +0000    55195 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12010">390.  2017-04-20 14:19:34 +0000    55195 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12026">pdf417/decoder/BitMatrixParser.java</tspan>
-<tspan x="10" y="12042">391.  2017-04-20 14:18:29 +0000    21020 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12042">391.  2017-04-20 14:19:34 +0000    21020 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12058">pdf417/decoder/DecodedBitStreamParser.java</tspan>
-<tspan x="10" y="12074">392.  2017-04-20 14:18:29 +0000     5265 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12074">392.  2017-04-20 14:19:34 +0000     5265 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12090">pdf417/decoder/Decoder.java</tspan>
-<tspan x="10" y="12106">393.  2017-04-20 14:18:29 +0000     6094 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12106">393.  2017-04-20 14:19:34 +0000     6094 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12122">pdf417/decoder/ec/ErrorCorrection.java</tspan>
-<tspan x="10" y="12138">394.  2017-04-20 14:18:29 +0000     2621 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12138">394.  2017-04-20 14:19:34 +0000     2621 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12154">pdf417/decoder/ec/ModulusGF.java</tspan>
-<tspan x="10" y="12170">395.  2017-04-20 14:18:29 +0000     7889 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12170">395.  2017-04-20 14:19:34 +0000     7889 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12186">pdf417/decoder/ec/ModulusPoly.java</tspan>
-<tspan x="10" y="12202">396.  2017-04-20 14:18:29 +0000    21050 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12202">396.  2017-04-20 14:19:34 +0000    21050 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12218">pdf417/detector/Detector.java</tspan>
-<tspan x="10" y="12234">397.  2017-04-20 14:18:29 +0000     2114 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12234">397.  2017-04-20 14:19:34 +0000     2114 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12250">pdf417/encoder/BarcodeMatrix.java</tspan>
-<tspan x="10" y="12266">398.  2017-04-20 14:18:29 +0000     2068 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12266">398.  2017-04-20 14:19:34 +0000     2068 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12282">pdf417/encoder/BarcodeRow.java</tspan>
-<tspan x="10" y="12298">399.  2017-04-20 14:18:29 +0000      706 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12298">399.  2017-04-20 14:19:34 +0000      706 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12314">pdf417/encoder/Compaction.java</tspan>
-<tspan x="10" y="12330">400.  2017-04-20 14:18:29 +0000     1353 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12330">400.  2017-04-20 14:19:34 +0000     1353 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12346">pdf417/encoder/Dimensions.java</tspan>
-<tspan x="10" y="12362">401.  2017-04-20 14:18:29 +0000    39796 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12362">401.  2017-04-20 14:19:34 +0000    39796 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12378">pdf417/encoder/PDF417.java</tspan>
-<tspan x="10" y="12394">402.  2017-04-20 14:18:29 +0000     9384 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12394">402.  2017-04-20 14:19:34 +0000     9384 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12410">pdf417/encoder/PDF417ErrorCorrection.java</tspan>
-<tspan x="10" y="12426">403.  2017-04-20 14:18:29 +0000    16508 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12426">403.  2017-04-20 14:19:34 +0000    16508 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12442">pdf417/encoder/PDF417HighLevelEncoder.java</tspan>
-<tspan x="10" y="12458">404.  2017-04-20 14:18:29 +0000     6221 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12458">404.  2017-04-20 14:19:34 +0000     6221 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12474">pdf417/encoder/PDF417Writer.java</tspan>
-<tspan x="10" y="12490">405.  2017-04-20 14:18:29 +0000     6146 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12490">405.  2017-04-20 14:19:34 +0000     6146 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12506">qrcode/QRCodeReader.java</tspan>
-<tspan x="10" y="12522">406.  2017-04-20 14:18:29 +0000     4497 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12522">406.  2017-04-20 14:19:34 +0000     4497 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12538">qrcode/QRCodeWriter.java</tspan>
-<tspan x="10" y="12554">407.  2017-04-20 14:18:29 +0000     7135 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12554">407.  2017-04-20 14:19:34 +0000     7135 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12570">qrcode/decoder/BitMatrixParser.java</tspan>
-<tspan x="10" y="12586">408.  2017-04-20 14:18:29 +0000     4703 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12586">408.  2017-04-20 14:19:34 +0000     4703 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12602">qrcode/decoder/DataBlock.java</tspan>
-<tspan x="10" y="12618">409.  2017-04-20 14:18:29 +0000     4597 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12618">409.  2017-04-20 14:19:34 +0000     4597 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12634">qrcode/decoder/DataMask.java</tspan>
-<tspan x="10" y="12650">410.  2017-04-20 14:18:29 +0000    13008 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12650">410.  2017-04-20 14:19:34 +0000    13008 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12666">qrcode/decoder/DecodedBitStreamParser.java</tspan>
-<tspan x="10" y="12682">411.  2017-04-20 14:18:29 +0000     5555 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12682">411.  2017-04-20 14:19:34 +0000     5555 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12698">qrcode/decoder/Decoder.java</tspan>
-<tspan x="10" y="12714">412.  2017-04-20 14:18:29 +0000     1578 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12714">412.  2017-04-20 14:19:34 +0000     1578 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12730">qrcode/decoder/ErrorCorrectionLevel.java</tspan>
-<tspan x="10" y="12746">413.  2017-04-20 14:18:29 +0000     5552 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12746">413.  2017-04-20 14:19:34 +0000     5552 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12762">qrcode/decoder/FormatInformation.java</tspan>
-<tspan x="10" y="12778">414.  2017-04-20 14:18:29 +0000     3046 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12778">414.  2017-04-20 14:19:34 +0000     3046 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12794">qrcode/decoder/Mode.java</tspan>
-<tspan x="10" y="12810">415.  2017-04-20 14:18:29 +0000    21878 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12810">415.  2017-04-20 14:19:34 +0000    21878 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12826">qrcode/decoder/Version.java</tspan>
-<tspan x="10" y="12842">416.  2017-04-20 14:18:29 +0000     2143 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12842">416.  2017-04-20 14:19:34 +0000     2143 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12858">qrcode/detector/AlignmentPattern.java</tspan>
-<tspan x="10" y="12874">417.  2017-04-20 14:18:29 +0000    10391 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12874">417.  2017-04-20 14:19:34 +0000    10391 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12890">qrcode/detector/AlignmentPatternFinder.java</tspan>
-<tspan x="10" y="12906">418.  2017-04-20 14:18:29 +0000    15458 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12906">418.  2017-04-20 14:19:34 +0000    15458 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12922">qrcode/detector/Detector.java</tspan>
-<tspan x="10" y="12938">419.  2017-04-20 14:18:29 +0000     2691 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12938">419.  2017-04-20 14:19:34 +0000     2691 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12954">qrcode/detector/FinderPattern.java</tspan>
-<tspan x="10" y="12970">420.  2017-04-20 14:18:29 +0000    21985 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="12970">420.  2017-04-20 14:19:34 +0000    21985 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="12986">qrcode/detector/FinderPatternFinder.java</tspan>
-<tspan x="10" y="13002">421.  2017-04-20 14:18:29 +0000     1378 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="13002">421.  2017-04-20 14:19:34 +0000     1378 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="13018">qrcode/detector/FinderPatternInfo.java</tspan>
-<tspan x="10" y="13034">422.  2017-04-20 14:18:29 +0000     1012 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="13034">422.  2017-04-20 14:19:34 +0000     1012 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="13050">qrcode/encoder/BlockPair.java</tspan>
-<tspan x="10" y="13066">423.  2017-04-20 14:18:29 +0000     2449 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="13066">423.  2017-04-20 14:19:34 +0000     2449 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="13082">qrcode/encoder/ByteMatrix.java</tspan>
-<tspan x="10" y="13098">424.  2017-04-20 14:18:29 +0000    21801 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="13098">424.  2017-04-20 14:19:34 +0000    21801 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="13114">qrcode/encoder/Encoder.java</tspan>
-<tspan x="10" y="13130">425.  2017-04-20 14:18:29 +0000     7096 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="13130">425.  2017-04-20 14:19:34 +0000     7096 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="13146">qrcode/encoder/MaskUtil.java</tspan>
-<tspan x="10" y="13162">426.  2017-04-20 14:18:29 +0000    18557 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="13162">426.  2017-04-20 14:19:34 +0000    18557 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="13178">qrcode/encoder/MatrixUtil.java</tspan>
-<tspan x="10" y="13194">427.  2017-04-20 14:18:29 +0000     2623 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
+<tspan x="10" y="13194">427.  2017-04-20 14:19:34 +0000     2623 bytes  src/android/LibraryProject/src/com/google/zxing/\</tspan>
 <tspan x="10" y="13210">qrcode/encoder/QRCode.java</tspan>
-<tspan x="10" y="13226">428.  2017-04-20 14:18:29 +0000     4386 bytes  src/android/README.md</tspan>
-<tspan x="10" y="13242">429.  2017-04-20 14:18:29 +0000   619420 bytes  src/android/com.google.zxing.client.android.capt\</tspan>
+<tspan x="10" y="13226">428.  2017-04-20 14:19:34 +0000     4386 bytes  src/android/README.md</tspan>
+<tspan x="10" y="13242">429.  2017-04-20 14:19:34 +0000   619420 bytes  src/android/com.google.zxing.client.android.capt\</tspan>
 <tspan x="10" y="13258">ureactivity.jar</tspan>
-<tspan x="10" y="13274">430.  2017-04-20 14:18:29 +0000     6721 bytes  src/android/com/phonegap/plugins/barcodescanner/\</tspan>
+<tspan x="10" y="13274">430.  2017-04-20 14:19:34 +0000     6721 bytes  src/android/com/phonegap/plugins/barcodescanner/\</tspan>
 <tspan x="10" y="13290">BarcodeScanner.java</tspan>
-<tspan x="10" y="13306">431.  2017-04-20 14:18:29 +0000      528 bytes  src/browser/BarcodeScannerProxy.js</tspan>
-<tspan x="10" y="13322">432.  2017-04-20 14:18:29 +0000    36177 bytes  src/ios/CDVBarcodeScanner.mm</tspan>
-<tspan x="10" y="13338">433.  2017-04-20 14:18:29 +0000     8142 bytes  src/ios/scannerOverlay.xib</tspan>
-<tspan x="10" y="13354">434.  2017-04-20 14:18:29 +0000   401703 bytes  src/ios/zxing-all-in-one.cpp</tspan>
-<tspan x="10" y="13370">435.  2017-04-20 14:18:29 +0000   141198 bytes  src/ios/zxing-all-in-one.h</tspan>
-<tspan x="10" y="13386">436.  2017-04-20 14:18:29 +0000     4945 bytes  src/windows8/BarcodeScannerProxy.js</tspan>
-<tspan x="10" y="13402">437.  2017-04-20 14:18:29 +0000    11776 bytes  src/windows8/lib/WinRTBarcodeReader.winmd</tspan>
-<tspan x="10" y="13418">438.  2017-04-20 14:18:29 +0000     2041 bytes  src/windows8/lib/WinRTBarcodeReader/WinRTBarcode\</tspan>
+<tspan x="10" y="13306">431.  2017-04-20 14:19:34 +0000      528 bytes  src/browser/BarcodeScannerProxy.js</tspan>
+<tspan x="10" y="13322">432.  2017-04-20 14:19:34 +0000    36177 bytes  src/ios/CDVBarcodeScanner.mm</tspan>
+<tspan x="10" y="13338">433.  2017-04-20 14:19:34 +0000     8142 bytes  src/ios/scannerOverlay.xib</tspan>
+<tspan x="10" y="13354">434.  2017-04-20 14:19:34 +0000   401703 bytes  src/ios/zxing-all-in-one.cpp</tspan>
+<tspan x="10" y="13370">435.  2017-04-20 14:19:34 +0000   141198 bytes  src/ios/zxing-all-in-one.h</tspan>
+<tspan x="10" y="13386">436.  2017-04-20 14:19:34 +0000     4945 bytes  src/windows8/BarcodeScannerProxy.js</tspan>
+<tspan x="10" y="13402">437.  2017-04-20 14:19:34 +0000    11776 bytes  src/windows8/lib/WinRTBarcodeReader.winmd</tspan>
+<tspan x="10" y="13418">438.  2017-04-20 14:19:34 +0000     2041 bytes  src/windows8/lib/WinRTBarcodeReader/WinRTBarcode\</tspan>
 <tspan x="10" y="13434">Reader.sln</tspan>
-<tspan x="10" y="13450">439.  2017-04-20 14:18:29 +0000     1684 bytes  src/windows8/lib/WinRTBarcodeReader/WinRTBarcode\</tspan>
+<tspan x="10" y="13450">439.  2017-04-20 14:19:34 +0000     1684 bytes  src/windows8/lib/WinRTBarcodeReader/WinRTBarcode\</tspan>
 <tspan x="10" y="13466">Reader/Properties/AssemblyInfo.cs</tspan>
-<tspan x="10" y="13482">440.  2017-04-20 14:18:29 +0000     6547 bytes  src/windows8/lib/WinRTBarcodeReader/WinRTBarcode\</tspan>
+<tspan x="10" y="13482">440.  2017-04-20 14:19:34 +0000     6547 bytes  src/windows8/lib/WinRTBarcodeReader/WinRTBarcode\</tspan>
 <tspan x="10" y="13498">Reader/Reader.cs</tspan>
-<tspan x="10" y="13514">441.  2017-04-20 14:18:29 +0000     6147 bytes  src/windows8/lib/WinRTBarcodeReader/WinRTBarcode\</tspan>
+<tspan x="10" y="13514">441.  2017-04-20 14:19:34 +0000     6147 bytes  src/windows8/lib/WinRTBarcodeReader/WinRTBarcode\</tspan>
 <tspan x="10" y="13530">Reader/WinRTBarcodeReader.csproj</tspan>
-<tspan x="10" y="13546">442.  2017-04-20 14:18:29 +0000   446464 bytes  src/windows8/lib/ZXing.winmd</tspan>
-<tspan x="10" y="13562">443.  2017-04-20 14:18:29 +0000     4219 bytes  src/wp8/BarcodeScanner.cs</tspan>
-<tspan x="10" y="13578">444.  2017-04-20 14:18:29 +0000     3540 bytes  src/wp8/BarcodeScannerTask.cs</tspan>
-<tspan x="10" y="13594">445.  2017-04-20 14:18:29 +0000     1978 bytes  src/wp8/BarcodeScannerUI.xaml</tspan>
-<tspan x="10" y="13610">446.  2017-04-20 14:18:29 +0000     5151 bytes  src/wp8/BarcodeScannerUI.xaml.cs</tspan>
-<tspan x="10" y="13626">447.  2017-04-20 14:18:29 +0000      550 bytes  src/wp8/assets/cancel.png</tspan>
-<tspan x="10" y="13642">448.  2017-04-20 14:18:29 +0000   432640 bytes  src/wp8/lib/zxing.wp8.0.dll</tspan>
-<tspan x="10" y="13658">449.  2017-04-20 14:18:29 +0000     4108 bytes  www/barcodescanner.js</tspan>
+<tspan x="10" y="13546">442.  2017-04-20 14:19:34 +0000   446464 bytes  src/windows8/lib/ZXing.winmd</tspan>
+<tspan x="10" y="13562">443.  2017-04-20 14:19:34 +0000     4219 bytes  src/wp8/BarcodeScanner.cs</tspan>
+<tspan x="10" y="13578">444.  2017-04-20 14:19:34 +0000     3540 bytes  src/wp8/BarcodeScannerTask.cs</tspan>
+<tspan x="10" y="13594">445.  2017-04-20 14:19:34 +0000     1978 bytes  src/wp8/BarcodeScannerUI.xaml</tspan>
+<tspan x="10" y="13610">446.  2017-04-20 14:19:34 +0000     5151 bytes  src/wp8/BarcodeScannerUI.xaml.cs</tspan>
+<tspan x="10" y="13626">447.  2017-04-20 14:19:34 +0000      550 bytes  src/wp8/assets/cancel.png</tspan>
+<tspan x="10" y="13642">448.  2017-04-20 14:19:34 +0000   432640 bytes  src/wp8/lib/zxing.wp8.0.dll</tspan>
+<tspan x="10" y="13658">449.  2017-04-20 14:19:34 +0000     4108 bytes  www/barcodescanner.js</tspan>
 </text>
 </svg>
