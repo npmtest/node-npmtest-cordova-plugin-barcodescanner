@@ -1,6 +1,6 @@
 # npmtest-cordova-plugin-barcodescanner
 
-#### basic test coverage for  cordova-plugin-barcodescanner (v0.7.0)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-barcodescanner.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-barcodescanner) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-barcodescanner.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-barcodescanner)
+#### basic test coverage for  [cordova-plugin-barcodescanner (v0.7.0)](https://github.com/hypery2k/cordova-barcodescanner-plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-barcodescanner.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-barcodescanner) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-barcodescanner.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-barcodescanner)
 
 #### Cordova Barcode Scanner Plugin
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-cordova-plugin-barcodescanner/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-barcodescanner/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-cordova-plugin-barcodescanner/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-barcodescanner/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-barcodescanner/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-barcodescanner/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-cordova-plugin-barcodescanner/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-cordova-plugin-barcodescanner/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-barcodescanner/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-barcodescanner/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-cordova-plugin-barcodescanner/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-cordova-plugin-barcodescanner/build/coverage.html/index.html)
 
@@ -35,9 +35,12 @@
 ```json
 
 {
-    "name": "cordova-plugin-barcodescanner",
-    "version": "0.7.0",
-    "description": "Cordova Barcode Scanner Plugin",
+    "author": {
+        "name": "Martin Reinhardt"
+    },
+    "bugs": {
+        "url": "https://github.com/hypery2k/cordova-barcodescanner-plugin/issues"
+    },
     "cordova": {
         "id": "cordova-plugin-barcodescanner",
         "platforms": [
@@ -47,10 +50,16 @@
             "windows8"
         ]
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/hypery2k/cordova-barcodescanner-plugin.git"
+    "dependencies": {},
+    "description": "Cordova Barcode Scanner Plugin",
+    "devDependencies": {},
+    "directories": {},
+    "dist": {
+        "shasum": "6649f2d35be2b145a725dace6f50369476f76814",
+        "tarball": "https://registry.npmjs.org/cordova-plugin-barcodescanner/-/cordova-plugin-barcodescanner-0.7.0.tgz"
     },
+    "gitHead": "138ec0561a7055b6389689bddca506db7b447018",
+    "homepage": "https://github.com/hypery2k/cordova-barcodescanner-plugin#readme",
     "keywords": [
         "cordova",
         "battery",
@@ -60,8 +69,21 @@
         "cordova-wp8",
         "cordova-windows8"
     ],
-    "author": "Martin Reinhardt",
-    "license": "MIT"
+    "license": "MIT",
+    "maintainers": [
+        {
+            "name": "hypery2k"
+        }
+    ],
+    "name": "cordova-plugin-barcodescanner",
+    "optionalDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hypery2k/cordova-barcodescanner-plugin.git"
+    },
+    "scripts": {},
+    "version": "0.7.0",
+    "bin": {}
 }
 ```
 
